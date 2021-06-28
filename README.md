@@ -1,15 +1,15 @@
-# BAD USB <img align="right" src="https://github.com/CrashOverrideProductions/Tools/blob/main/Bad%20USB/images/logo.jpg?raw=true">
+# BAD USB <img align="right" src="https://github.com/CrashOverrideProductions/Bad_USB/blob/main/images/logo.jpg?raw=true">
 
-### Project: Arduino Based Malacious USB <img alt="" align="right" src="https://img.shields.io/badge/Status-Prototype%20Phase-informational?style=flat&logoColor=white&color=73398D" />
+### Project: Arduino Based Malicious USB <img alt="" align="right" src="https://img.shields.io/badge/Status-Prototype%20Phase-informational?style=flat&logoColor=white&color=73398D" />
 
 
 <!-- Repo Cover Image -->
 <p style="background-color:rgba(22,22,22,1.00)" align="center">
-<img align="center" src="https://github.com/CrashOverrideProductions/Tools/blob/main/Bad%20USB/images/background.jpg?raw=true" />
+<img align="center" src="https://github.com/CrashOverrideProductions/Bad_USB/blob/main/images/background.jpg?raw=true" />
 </p>
 
 <!-- Repo Stats -->
-<img align="center" src="https://img.shields.io/github/commit-activity/m/CrashOverrideProductions/Tools"> <img align="center" src="https://img.shields.io/github/last-commit/CrashOverrideProductions/Tools"> <img align="center" src="https://img.shields.io/github/languages/code-size/CrashOverrideProductions/Tools"> <img align="center" src="https://img.shields.io/github/directory-file-count/CrashOverrideProductions/Tools">
+<img align="center" src="https://img.shields.io/github/commit-activity/m/CrashOverrideProductions/Bad_USB"> <img align="center" src="https://img.shields.io/github/last-commit/CrashOverrideProductions/Bad_USB"> <img align="center" src="https://img.shields.io/github/languages/code-size/CrashOverrideProductions/Bad_USB"> <img align="center" src="https://img.shields.io/github/directory-file-count/CrashOverrideProductions/Bad_USB">
 
 ### Details
 The BadUSB is intended to be a budget alternative to the current offering of Keystroke Injection tools available on the market.
@@ -33,7 +33,7 @@ This can be a vector for malicious code, and is potentially dangerous and destru
 
 ---
 ### Prototype PCB Design
-<img align="center" src="https://github.com/CrashOverrideProductions/Tools/blob/main/Bad%20USB/images/BadUSB-TOP.png?raw=true" /> <img align="center" src="https://github.com/CrashOverrideProductions/Tools/blob/main/Bad%20USB/images/BadUSB-Bottom.png?raw=true" />
+<img align="center" src="https://github.com/CrashOverrideProductions/Bad_USB/blob/main/images/BadUSB-TOP.png?raw=true" /> <img align="center" src="https://github.com/CrashOverrideProductions/Bad_USB/blob/main/images/BadUSB-Bottom.png?raw=true" />
 ##### BOM
 
 | Part# | Part                                                              | Mouser Part#       | Qty | Price   | Total   |
@@ -76,11 +76,11 @@ The software for this project is a modified version of the Malduino Elite firmwa
 ### Proof of Concept 
 Images / Screenshots, etc
 ##### Images
-![](https://github.com/CrashOverrideProductions/Tools/blob/main/Bad%20USB/images/prototype.jpg?raw=true) 
+![](https://github.com/CrashOverrideProductions/Bad_USB/blob/main/images/prototype.jpg?raw=true) 
 ##### Screenshots
-![](https://github.com/CrashOverrideProductions/Tools/blob/main/Bad%20USB/images/test1.jpg?raw=true) 
+![](https://github.com/CrashOverrideProductions/Bad_USB/blob/main/images/test1.jpg?raw=true) 
 
-![](https://github.com/CrashOverrideProductions/Tools/blob/main/Bad%20USB/images/test2.jpg?raw=true)
+![](https://github.com/CrashOverrideProductions/Bad_USB/blob/main/images/test2.jpg?raw=true)
 ##### Sample Ducky Script
 - Spoiler Alert - This is the Rick Roll Script
         
