@@ -12,7 +12,8 @@
 //
 // LICENCE:          MIT LICENCE
 //
-// DESIGNED MCU:     TEST - ARDUINO LEONARDO R3 (ATMEGA32U4) | PRODUCTION - ATMEGA32U4
+// DESIGNED MCU 1:     TEST - ARDUINO LEONARDO R3 (ATMEGA32U4) | PRODUCTION - ATMEGA32U4
+// DESIGNED MCU 2:     TEST - SEEEDUINO ZERO (ATMEGA SAMD21) | PRODUCTION - ATMEGA SAMD21E...
 //
 // REVISIONS:
 //                   09/12/2020  IMPORT MALDUINO ELITE SOURCE FROM SEYTONIC'S GITHUB REPOSITORY
@@ -23,6 +24,8 @@
 //                   18/04/2021  CAST 'buf' & 'repeatBuffer' (char*)malloc....
 //                   18/04/2021  MOVE 'runLine' FUNCTION BELOW 'runCommand' FUNCION - PLATFORMIO ISSUE
 //                   30/04/2021  IMPLEMENT 'NumLock', 'Pause/Break', 'Scroll-Lock', 'F13 - F23' KEYS
+//                   08/07/2021  ADD AMTEL SAMD21 TO BUILD ENVELOPE
+//                               ADD Demo Payload
 
 // |------------------------------- LICENCE INFO ---------------------------------------------------------------------------------------------------|
 /*
@@ -105,6 +108,31 @@ int defaultDelay = 5;
 int defaultCharDelay = 5;
 int rMin = -100;
 int rMax = 100;
+int ledFlash = 500;
+
+void DemoPayload()
+{
+    #ifdef debug 
+    Serial.print("Sending Demo Payload.......");
+    #endif
+    
+    delay(defaultDelay);
+    Keyboard.press(KEY_LEFT_GUI);
+    Keyboard.print("r");
+    Keyboard.releaseAll();
+  
+    delay(200);
+    Keyboard.print("www.github.com/CrashOverrideProductions");
+
+    delay(200);
+    Keyboard.press(KEYPAD_ENTER);
+
+    Keyboard.releaseAll();
+
+    #ifdef debug 
+    Serial.println("Sent");
+    #endif
+}
 
 
 int getSpace(int start, int end) {
@@ -287,25 +315,37 @@ void runLine() {
 }
 
 void setup() {
-#ifdef debug
-    Serial.begin(115200);
-    delay(2000);
-    Serial.println("Started!");
-#endif
+    #ifdef debug
+        Serial.begin(9600);
+        delay(2000);
+        Serial.println("Started!");
+    #endif
 
     randomSeed(analogRead(0));
 
 
     if (!SD.begin(CSpin)) {
-#ifdef debug 
-        Serial.println("couldn't access sd-card :(");
-#endif
+        #ifdef debug 
+            Serial.println("No SD Card Found... Running Demo Ducky Script");
+        #endif
+
+        DemoPayload();
         return;
     }
+    else 
+    {
+        #ifdef debug 
+            Serial.println("Accessing ducky.txt from SD Card");
+        #endif
+        payload = SD.open("ducky.txt");
+    }
 
-    payload = SD.open("ducky.txt");
+
+
+
     if (!payload)
     {
+        Serial.println("No Payload Found");
         return;
     }
     else {
@@ -368,4 +408,9 @@ void setup() {
     }
 }
 
-void loop() {}
+void loop()
+{
+    // led flash here
+    delay(ledFlash);
+
+}
