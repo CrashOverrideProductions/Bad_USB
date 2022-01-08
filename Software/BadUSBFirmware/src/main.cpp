@@ -25,6 +25,7 @@
 //                   18/04/2021  MOVE 'runLine' FUNCTION BELOW 'runCommand' FUNCION - PLATFORMIO ISSUE
 //                   30/04/2021  IMPLEMENT 'NumLock', 'Pause/Break', 'Scroll-Lock', 'F13 - F23' KEYS
 //                   08/07/2021  ADD AMTEL SAMD21 TO BUILD ENVELOPE
+//                   08/01/2022  DEFINE CS PIN D10 (10)
 //                               ADD Demo Payload
 
 // |------------------------------- LICENCE INFO ---------------------------------------------------------------------------------------------------|
@@ -54,6 +55,13 @@ IN THE SOFTWARE.
 //   MOSI               D11     ISCP MOSI
 //   SCK                D13     ISCP SCK
 
+// SEEEDUINO ZERO (ATMEGA SAMD21) PIN CONFIGURATION
+// |-----SIGNAL-----|--PIN--|
+//  SD Card Select     D10
+//  MISO               D22
+//  MOSI               D23
+//  SCK                D24
+
 //  VENDOR AND DEVICE IDS FOR COMMON HID DEVICES
 //  |--MANUFACTURER--|--------------DESCRIPTION--------------|--VENDOR ID--|--DEVICE ID--|
 //        APPLE                MAGIC KEYBOARD A1644               05AC          0267
@@ -72,7 +80,7 @@ IN THE SOFTWARE.
 #include <Mouse.h>
 #include <Keyboard.h>
 
-#define debug true // <-- uncomment to turn serial output on
+//#define debug true // <-- uncomment to turn serial output on
 #define CSpin D10 //Chip-Select of the SD-Card reader
 
 #define buffersize 256
@@ -320,7 +328,7 @@ void setup() {
         delay(2000);
         Serial.println("Started!");
     #endif
-    pinMode(D10, OUTPUT);
+    pinMode(CSpin, OUTPUT);
     randomSeed(analogRead(0));
 
 
