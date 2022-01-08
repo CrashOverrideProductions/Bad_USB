@@ -67,13 +67,13 @@ IN THE SOFTWARE.
 // |------------------------------- DEFINITIONS ----------------------------------------------------------------------------------------------------|
 
 #include <Arduino.h>
-//#include <SPI.h>
+#include <SPI.h>
 #include <SD.h>
 #include <Mouse.h>
 #include <Keyboard.h>
 
-//#define debug true // <-- uncomment to turn serial output on
-#define CSpin 10 //Chip-Select of the SD-Card reader
+#define debug true // <-- uncomment to turn serial output on
+#define CSpin D10 //Chip-Select of the SD-Card reader
 
 #define buffersize 256
 
@@ -320,7 +320,7 @@ void setup() {
         delay(2000);
         Serial.println("Started!");
     #endif
-
+    pinMode(D10, OUTPUT);
     randomSeed(analogRead(0));
 
 
