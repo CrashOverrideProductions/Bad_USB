@@ -4844,7 +4844,13 @@ Source: AVX .. aphvc.pdf</description>
 <packageinstance name="C01005"/>
 </packageinstances>
 </package3d>
-<package3d name="R0603" urn="urn:adsk.eagle:package:23555/3" type="model" library_version="11">
+<package3d name="R0402" urn="urn:adsk.eagle:package:23547/2" type="box" library_version="5">
+<description>Chip RESISTOR 0402 EIA (1005 Metric)</description>
+<packageinstances>
+<packageinstance name="R0402"/>
+</packageinstances>
+</package3d>
+<package3d name="R0603" urn="urn:adsk.eagle:package:23555/2" type="model" library_version="5">
 <description>RESISTOR</description>
 <packageinstances>
 <packageinstance name="R0603"/>
@@ -4856,10 +4862,23 @@ Source: AVX .. aphvc.pdf</description>
 <packageinstance name="R0805"/>
 </packageinstances>
 </package3d>
+<package3d name="R0805W" urn="urn:adsk.eagle:package:23537/1" type="box" library_version="5">
+<description>RESISTOR wave soldering</description>
+<packageinstances>
+<packageinstance name="R0805W"/>
+</packageinstances>
+</package3d>
 <package3d name="R1206" urn="urn:adsk.eagle:package:23540/2" type="model" library_version="5">
 <description>RESISTOR</description>
 <packageinstances>
 <packageinstance name="R1206"/>
+</packageinstances>
+</package3d>
+<package3d name="R1206W" urn="urn:adsk.eagle:package:23539/1" type="box" library_version="5">
+<description>RESISTOR
+wave soldering</description>
+<packageinstances>
+<packageinstance name="R1206W"/>
 </packageinstances>
 </package3d>
 <package3d name="R1210" urn="urn:adsk.eagle:package:23554/2" type="model" library_version="5">
@@ -4868,10 +4887,24 @@ Source: AVX .. aphvc.pdf</description>
 <packageinstance name="R1210"/>
 </packageinstances>
 </package3d>
+<package3d name="R1210W" urn="urn:adsk.eagle:package:23541/1" type="box" library_version="5">
+<description>RESISTOR
+wave soldering</description>
+<packageinstances>
+<packageinstance name="R1210W"/>
+</packageinstances>
+</package3d>
 <package3d name="R2010" urn="urn:adsk.eagle:package:23551/2" type="model" library_version="5">
 <description>RESISTOR</description>
 <packageinstances>
 <packageinstance name="R2010"/>
+</packageinstances>
+</package3d>
+<package3d name="R2010W" urn="urn:adsk.eagle:package:23542/1" type="box" library_version="5">
+<description>RESISTOR
+wave soldering</description>
+<packageinstances>
+<packageinstance name="R2010W"/>
 </packageinstances>
 </package3d>
 <package3d name="R2012" urn="urn:adsk.eagle:package:23543/2" type="model" library_version="5">
@@ -4880,10 +4913,24 @@ Source: AVX .. aphvc.pdf</description>
 <packageinstance name="R2012"/>
 </packageinstances>
 </package3d>
+<package3d name="R2012W" urn="urn:adsk.eagle:package:23544/1" type="box" library_version="5">
+<description>RESISTOR
+wave soldering</description>
+<packageinstances>
+<packageinstance name="R2012W"/>
+</packageinstances>
+</package3d>
 <package3d name="R2512" urn="urn:adsk.eagle:package:23545/2" type="model" library_version="5">
 <description>RESISTOR</description>
 <packageinstances>
 <packageinstance name="R2512"/>
+</packageinstances>
+</package3d>
+<package3d name="R2512W" urn="urn:adsk.eagle:package:23565/1" type="box" library_version="5">
+<description>RESISTOR
+wave soldering</description>
+<packageinstances>
+<packageinstance name="R2512W"/>
 </packageinstances>
 </package3d>
 <package3d name="R3216" urn="urn:adsk.eagle:package:23557/2" type="model" library_version="5">
@@ -4892,16 +4939,37 @@ Source: AVX .. aphvc.pdf</description>
 <packageinstance name="R3216"/>
 </packageinstances>
 </package3d>
+<package3d name="R3216W" urn="urn:adsk.eagle:package:23548/1" type="box" library_version="5">
+<description>RESISTOR
+wave soldering</description>
+<packageinstances>
+<packageinstance name="R3216W"/>
+</packageinstances>
+</package3d>
 <package3d name="R3225" urn="urn:adsk.eagle:package:23549/2" type="model" library_version="5">
 <description>RESISTOR</description>
 <packageinstances>
 <packageinstance name="R3225"/>
 </packageinstances>
 </package3d>
+<package3d name="R3225W" urn="urn:adsk.eagle:package:23550/1" type="box" library_version="5">
+<description>RESISTOR
+wave soldering</description>
+<packageinstances>
+<packageinstance name="R3225W"/>
+</packageinstances>
+</package3d>
 <package3d name="R5025" urn="urn:adsk.eagle:package:23552/2" type="model" library_version="5">
 <description>RESISTOR</description>
 <packageinstances>
 <packageinstance name="R5025"/>
+</packageinstances>
+</package3d>
+<package3d name="R5025W" urn="urn:adsk.eagle:package:23558/1" type="box" library_version="5">
+<description>RESISTOR
+wave soldering</description>
+<packageinstances>
+<packageinstance name="R5025W"/>
 </packageinstances>
 </package3d>
 <package3d name="R6332" urn="urn:adsk.eagle:package:23559/2" type="model" library_version="5">
@@ -4911,6 +4979,69 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <packageinstance name="R6332"/>
 </packageinstances>
 </package3d>
+<package3d name="R6332W" urn="urn:adsk.eagle:package:26078/1" type="box" library_version="5">
+<description>RESISTOR wave soldering
+Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor/dcrcwfre.pdf</description>
+<packageinstances>
+<packageinstance name="R6332W"/>
+</packageinstances>
+</package3d>
+<package3d name="M0805" urn="urn:adsk.eagle:package:23556/1" type="box" library_version="5">
+<description>RESISTOR
+MELF 0.10 W</description>
+<packageinstances>
+<packageinstance name="M0805"/>
+</packageinstances>
+</package3d>
+<package3d name="M1206" urn="urn:adsk.eagle:package:23566/1" type="box" library_version="5">
+<description>RESISTOR
+MELF 0.25 W</description>
+<packageinstances>
+<packageinstance name="M1206"/>
+</packageinstances>
+</package3d>
+<package3d name="M1406" urn="urn:adsk.eagle:package:23569/1" type="box" library_version="5">
+<description>RESISTOR
+MELF 0.12 W</description>
+<packageinstances>
+<packageinstance name="M1406"/>
+</packageinstances>
+</package3d>
+<package3d name="M2012" urn="urn:adsk.eagle:package:23561/1" type="box" library_version="5">
+<description>RESISTOR
+MELF 0.10 W</description>
+<packageinstances>
+<packageinstance name="M2012"/>
+</packageinstances>
+</package3d>
+<package3d name="M2309" urn="urn:adsk.eagle:package:23562/1" type="box" library_version="5">
+<description>RESISTOR
+MELF 0.25 W</description>
+<packageinstances>
+<packageinstance name="M2309"/>
+</packageinstances>
+</package3d>
+<package3d name="M3216" urn="urn:adsk.eagle:package:23563/1" type="box" library_version="5">
+<description>RESISTOR
+MELF 0.25 W</description>
+<packageinstances>
+<packageinstance name="M3216"/>
+</packageinstances>
+</package3d>
+<package3d name="M3516" urn="urn:adsk.eagle:package:23573/1" type="box" library_version="5">
+<description>RESISTOR
+MELF 0.12 W</description>
+<packageinstances>
+<packageinstance name="M3516"/>
+</packageinstances>
+</package3d>
+<package3d name="M5923" urn="urn:adsk.eagle:package:23564/1" type="box" library_version="5">
+<description>RESISTOR
+MELF 0.25 W</description>
+<packageinstances>
+<packageinstance name="M5923"/>
+</packageinstances>
+</package3d>
 <package3d name="0204/5" urn="urn:adsk.eagle:package:23488/1" type="box" library_version="5">
 <description>RESISTOR
 type 0204, grid 5 mm</description>
@@ -4918,11 +5049,25 @@ type 0204, grid 5 mm</description>
 <packageinstance name="0204/5"/>
 </packageinstances>
 </package3d>
+<package3d name="0204/7" urn="urn:adsk.eagle:package:23498/1" type="box" library_version="5">
+<description>RESISTOR
+type 0204, grid 7.5 mm</description>
+<packageinstances>
+<packageinstance name="0204/7"/>
+</packageinstances>
+</package3d>
 <package3d name="0204V" urn="urn:adsk.eagle:package:23495/1" type="box" library_version="5">
 <description>RESISTOR
 type 0204, grid 2.5 mm</description>
 <packageinstances>
 <packageinstance name="0204V"/>
+</packageinstances>
+</package3d>
+<package3d name="0207/10" urn="urn:adsk.eagle:package:23491/1" type="box" library_version="5">
+<description>RESISTOR
+type 0207, grid 10 mm</description>
+<packageinstances>
+<packageinstance name="0207/10"/>
 </packageinstances>
 </package3d>
 <package3d name="0207/12" urn="urn:adsk.eagle:package:23489/1" type="box" library_version="5">
@@ -4953,6 +5098,20 @@ type 0207, grid 5 mm</description>
 <packageinstance name="0207/5V"/>
 </packageinstances>
 </package3d>
+<package3d name="0207/7" urn="urn:adsk.eagle:package:23493/1" type="box" library_version="5">
+<description>RESISTOR
+type 0207, grid 7.5 mm</description>
+<packageinstances>
+<packageinstance name="0207/7"/>
+</packageinstances>
+</package3d>
+<package3d name="0309/10" urn="urn:adsk.eagle:package:23567/1" type="box" library_version="5">
+<description>RESISTOR
+type 0309, grid 10mm</description>
+<packageinstances>
+<packageinstance name="0309/10"/>
+</packageinstances>
+</package3d>
 <package3d name="0309/12" urn="urn:adsk.eagle:package:23571/1" type="box" library_version="5">
 <description>RESISTOR
 type 0309, grid 12.5 mm</description>
@@ -4974,6 +5133,13 @@ type 0411, grid 12.5 mm</description>
 <packageinstance name="0411/12"/>
 </packageinstances>
 </package3d>
+<package3d name="0411/15" urn="urn:adsk.eagle:package:23568/1" type="box" library_version="5">
+<description>RESISTOR
+type 0411, grid 15 mm</description>
+<packageinstances>
+<packageinstance name="0411/15"/>
+</packageinstances>
+</package3d>
 <package3d name="0411V" urn="urn:adsk.eagle:package:23570/1" type="box" library_version="5">
 <description>RESISTOR
 type 0411, grid 3.81 mm</description>
@@ -4981,11 +5147,25 @@ type 0411, grid 3.81 mm</description>
 <packageinstance name="0411V"/>
 </packageinstances>
 </package3d>
+<package3d name="0414/15" urn="urn:adsk.eagle:package:23579/1" type="box" library_version="5">
+<description>RESISTOR
+type 0414, grid 15 mm</description>
+<packageinstances>
+<packageinstance name="0414/15"/>
+</packageinstances>
+</package3d>
 <package3d name="0414V" urn="urn:adsk.eagle:package:23574/1" type="box" library_version="5">
 <description>RESISTOR
 type 0414, grid 5 mm</description>
 <packageinstances>
 <packageinstance name="0414V"/>
+</packageinstances>
+</package3d>
+<package3d name="0617/17" urn="urn:adsk.eagle:package:23575/1" type="box" library_version="5">
+<description>RESISTOR
+type 0617, grid 17.5 mm</description>
+<packageinstances>
+<packageinstance name="0617/17"/>
 </packageinstances>
 </package3d>
 <package3d name="0617/22" urn="urn:adsk.eagle:package:23577/1" type="box" library_version="5">
@@ -5002,11 +5182,25 @@ type 0617, grid 5 mm</description>
 <packageinstance name="0617V"/>
 </packageinstances>
 </package3d>
+<package3d name="0922/22" urn="urn:adsk.eagle:package:23580/1" type="box" library_version="5">
+<description>RESISTOR
+type 0922, grid 22.5 mm</description>
+<packageinstances>
+<packageinstance name="0922/22"/>
+</packageinstances>
+</package3d>
 <package3d name="P0613V" urn="urn:adsk.eagle:package:23582/1" type="box" library_version="5">
 <description>RESISTOR
 type 0613, grid 5 mm</description>
 <packageinstances>
 <packageinstance name="P0613V"/>
+</packageinstances>
+</package3d>
+<package3d name="P0613/15" urn="urn:adsk.eagle:package:23581/1" type="box" library_version="5">
+<description>RESISTOR
+type 0613, grid 15 mm</description>
+<packageinstances>
+<packageinstance name="P0613/15"/>
 </packageinstances>
 </package3d>
 <package3d name="P0817/22" urn="urn:adsk.eagle:package:23583/1" type="box" library_version="5">
@@ -5030,11 +5224,60 @@ type V234, grid 12.5 mm</description>
 <packageinstance name="V234/12"/>
 </packageinstances>
 </package3d>
+<package3d name="V235/17" urn="urn:adsk.eagle:package:23586/1" type="box" library_version="5">
+<description>RESISTOR
+type V235, grid 17.78 mm</description>
+<packageinstances>
+<packageinstance name="V235/17"/>
+</packageinstances>
+</package3d>
 <package3d name="V526-0" urn="urn:adsk.eagle:package:23590/1" type="box" library_version="5">
 <description>RESISTOR
 type V526-0, grid 2.5 mm</description>
 <packageinstances>
 <packageinstance name="V526-0"/>
+</packageinstances>
+</package3d>
+<package3d name="MINI_MELF-0102R" urn="urn:adsk.eagle:package:23591/1" type="box" library_version="5">
+<description>CECC Size RC2211 Reflow Soldering
+source Beyschlag</description>
+<packageinstances>
+<packageinstance name="MINI_MELF-0102R"/>
+</packageinstances>
+</package3d>
+<package3d name="MINI_MELF-0102W" urn="urn:adsk.eagle:package:23588/1" type="box" library_version="5">
+<description>CECC Size RC2211 Wave Soldering
+source Beyschlag</description>
+<packageinstances>
+<packageinstance name="MINI_MELF-0102W"/>
+</packageinstances>
+</package3d>
+<package3d name="MINI_MELF-0204R" urn="urn:adsk.eagle:package:26109/1" type="box" library_version="5">
+<description>CECC Size RC3715 Reflow Soldering
+source Beyschlag</description>
+<packageinstances>
+<packageinstance name="MINI_MELF-0204R"/>
+</packageinstances>
+</package3d>
+<package3d name="MINI_MELF-0204W" urn="urn:adsk.eagle:package:26111/1" type="box" library_version="5">
+<description>CECC Size RC3715 Wave Soldering
+source Beyschlag</description>
+<packageinstances>
+<packageinstance name="MINI_MELF-0204W"/>
+</packageinstances>
+</package3d>
+<package3d name="MINI_MELF-0207R" urn="urn:adsk.eagle:package:26113/1" type="box" library_version="5">
+<description>CECC Size RC6123 Reflow Soldering
+source Beyschlag</description>
+<packageinstances>
+<packageinstance name="MINI_MELF-0207R"/>
+</packageinstances>
+</package3d>
+<package3d name="MINI_MELF-0207W" urn="urn:adsk.eagle:package:26112/1" type="box" library_version="5">
+<description>CECC Size RC6123 Wave Soldering
+source Beyschlag</description>
+<packageinstances>
+<packageinstance name="MINI_MELF-0207W"/>
 </packageinstances>
 </package3d>
 <package3d name="0922V" urn="urn:adsk.eagle:package:23589/1" type="box" library_version="5">
@@ -5057,257 +5300,14 @@ type RDH, grid 15 mm</description>
 <packageinstance name="MINI_MELF-0102AX"/>
 </packageinstances>
 </package3d>
-<package3d name="R0402" urn="urn:adsk.eagle:package:23547/3" type="model" library_version="11">
-<description>Chip RESISTOR 0402 EIA (1005 Metric)</description>
-<packageinstances>
-<packageinstance name="R0402"/>
-</packageinstances>
-</package3d>
-<package3d name="R0805W" urn="urn:adsk.eagle:package:23537/2" type="model" library_version="11">
-<description>RESISTOR wave soldering</description>
-<packageinstances>
-<packageinstance name="R0805W"/>
-</packageinstances>
-</package3d>
-<package3d name="R1206W" urn="urn:adsk.eagle:package:23539/2" type="model" library_version="11">
-<description>RESISTOR
-wave soldering</description>
-<packageinstances>
-<packageinstance name="R1206W"/>
-</packageinstances>
-</package3d>
-<package3d name="R1210W" urn="urn:adsk.eagle:package:23541/2" type="model" library_version="11">
-<description>RESISTOR
-wave soldering</description>
-<packageinstances>
-<packageinstance name="R1210W"/>
-</packageinstances>
-</package3d>
-<package3d name="R2010W" urn="urn:adsk.eagle:package:23542/2" type="model" library_version="11">
-<description>RESISTOR
-wave soldering</description>
-<packageinstances>
-<packageinstance name="R2010W"/>
-</packageinstances>
-</package3d>
-<package3d name="R2012W" urn="urn:adsk.eagle:package:23544/2" type="model" library_version="11">
-<description>RESISTOR
-wave soldering</description>
-<packageinstances>
-<packageinstance name="R2012W"/>
-</packageinstances>
-</package3d>
-<package3d name="R2512W" urn="urn:adsk.eagle:package:23565/2" type="model" library_version="11">
-<description>RESISTOR
-wave soldering</description>
-<packageinstances>
-<packageinstance name="R2512W"/>
-</packageinstances>
-</package3d>
-<package3d name="R3216W" urn="urn:adsk.eagle:package:23548/2" type="model" library_version="11">
-<description>RESISTOR
-wave soldering</description>
-<packageinstances>
-<packageinstance name="R3216W"/>
-</packageinstances>
-</package3d>
-<package3d name="R3225W" urn="urn:adsk.eagle:package:23550/2" type="model" library_version="11">
-<description>RESISTOR
-wave soldering</description>
-<packageinstances>
-<packageinstance name="R3225W"/>
-</packageinstances>
-</package3d>
-<package3d name="R5025W" urn="urn:adsk.eagle:package:23558/2" type="model" library_version="11">
-<description>RESISTOR
-wave soldering</description>
-<packageinstances>
-<packageinstance name="R5025W"/>
-</packageinstances>
-</package3d>
-<package3d name="R6332W" urn="urn:adsk.eagle:package:26078/2" type="model" library_version="11">
-<description>RESISTOR wave soldering
-Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor/dcrcwfre.pdf</description>
-<packageinstances>
-<packageinstance name="R6332W"/>
-</packageinstances>
-</package3d>
-<package3d name="M0805" urn="urn:adsk.eagle:package:23556/2" type="model" library_version="11">
-<description>RESISTOR
-MELF 0.10 W</description>
-<packageinstances>
-<packageinstance name="M0805"/>
-</packageinstances>
-</package3d>
-<package3d name="M1206" urn="urn:adsk.eagle:package:23566/2" type="model" library_version="11">
-<description>RESISTOR
-MELF 0.25 W</description>
-<packageinstances>
-<packageinstance name="M1206"/>
-</packageinstances>
-</package3d>
-<package3d name="M1406" urn="urn:adsk.eagle:package:23569/2" type="model" library_version="11">
-<description>RESISTOR
-MELF 0.12 W</description>
-<packageinstances>
-<packageinstance name="M1406"/>
-</packageinstances>
-</package3d>
-<package3d name="M2012" urn="urn:adsk.eagle:package:23561/2" type="model" library_version="11">
-<description>RESISTOR
-MELF 0.10 W</description>
-<packageinstances>
-<packageinstance name="M2012"/>
-</packageinstances>
-</package3d>
-<package3d name="M2309" urn="urn:adsk.eagle:package:23562/2" type="model" library_version="11">
-<description>RESISTOR
-MELF 0.25 W</description>
-<packageinstances>
-<packageinstance name="M2309"/>
-</packageinstances>
-</package3d>
-<package3d name="M3216" urn="urn:adsk.eagle:package:23563/2" type="model" library_version="11">
-<description>RESISTOR
-MELF 0.25 W</description>
-<packageinstances>
-<packageinstance name="M3216"/>
-</packageinstances>
-</package3d>
-<package3d name="M3516" urn="urn:adsk.eagle:package:23573/2" type="model" library_version="11">
-<description>RESISTOR
-MELF 0.12 W</description>
-<packageinstances>
-<packageinstance name="M3516"/>
-</packageinstances>
-</package3d>
-<package3d name="M5923" urn="urn:adsk.eagle:package:23564/3" type="model" library_version="11">
-<description>RESISTOR
-MELF 0.25 W</description>
-<packageinstances>
-<packageinstance name="M5923"/>
-</packageinstances>
-</package3d>
-<package3d name="0204/7" urn="urn:adsk.eagle:package:23498/2" type="model" library_version="11">
-<description>RESISTOR
-type 0204, grid 7.5 mm</description>
-<packageinstances>
-<packageinstance name="0204/7"/>
-</packageinstances>
-</package3d>
-<package3d name="0207/10" urn="urn:adsk.eagle:package:23491/2" type="model" library_version="11">
-<description>RESISTOR
-type 0207, grid 10 mm</description>
-<packageinstances>
-<packageinstance name="0207/10"/>
-</packageinstances>
-</package3d>
-<package3d name="0207/7" urn="urn:adsk.eagle:package:23493/2" type="model" library_version="11">
-<description>RESISTOR
-type 0207, grid 7.5 mm</description>
-<packageinstances>
-<packageinstance name="0207/7"/>
-</packageinstances>
-</package3d>
-<package3d name="0309/10" urn="urn:adsk.eagle:package:23567/2" type="model" library_version="11">
-<description>RESISTOR
-type 0309, grid 10mm</description>
-<packageinstances>
-<packageinstance name="0309/10"/>
-</packageinstances>
-</package3d>
-<package3d name="0411/15" urn="urn:adsk.eagle:package:23568/2" type="model" library_version="11">
-<description>RESISTOR
-type 0411, grid 15 mm</description>
-<packageinstances>
-<packageinstance name="0411/15"/>
-</packageinstances>
-</package3d>
-<package3d name="0414/15" urn="urn:adsk.eagle:package:23579/2" type="model" library_version="11">
-<description>RESISTOR
-type 0414, grid 15 mm</description>
-<packageinstances>
-<packageinstance name="0414/15"/>
-</packageinstances>
-</package3d>
-<package3d name="0617/17" urn="urn:adsk.eagle:package:23575/2" type="model" library_version="11">
-<description>RESISTOR
-type 0617, grid 17.5 mm</description>
-<packageinstances>
-<packageinstance name="0617/17"/>
-</packageinstances>
-</package3d>
-<package3d name="0922/22" urn="urn:adsk.eagle:package:23580/2" type="model" library_version="11">
-<description>RESISTOR
-type 0922, grid 22.5 mm</description>
-<packageinstances>
-<packageinstance name="0922/22"/>
-</packageinstances>
-</package3d>
-<package3d name="P0613/15" urn="urn:adsk.eagle:package:23581/2" type="model" library_version="11">
-<description>RESISTOR
-type 0613, grid 15 mm</description>
-<packageinstances>
-<packageinstance name="P0613/15"/>
-</packageinstances>
-</package3d>
-<package3d name="V235/17" urn="urn:adsk.eagle:package:23586/2" type="model" library_version="11">
-<description>RESISTOR
-type V235, grid 17.78 mm</description>
-<packageinstances>
-<packageinstance name="V235/17"/>
-</packageinstances>
-</package3d>
-<package3d name="MINI_MELF-0102R" urn="urn:adsk.eagle:package:23591/2" type="model" library_version="11">
-<description>CECC Size RC2211 Reflow Soldering
-source Beyschlag</description>
-<packageinstances>
-<packageinstance name="MINI_MELF-0102R"/>
-</packageinstances>
-</package3d>
-<package3d name="MINI_MELF-0102W" urn="urn:adsk.eagle:package:23588/2" type="model" library_version="11">
-<description>CECC Size RC2211 Wave Soldering
-source Beyschlag</description>
-<packageinstances>
-<packageinstance name="MINI_MELF-0102W"/>
-</packageinstances>
-</package3d>
-<package3d name="MINI_MELF-0204R" urn="urn:adsk.eagle:package:26109/2" type="model" library_version="11">
-<description>CECC Size RC3715 Reflow Soldering
-source Beyschlag</description>
-<packageinstances>
-<packageinstance name="MINI_MELF-0204R"/>
-</packageinstances>
-</package3d>
-<package3d name="MINI_MELF-0204W" urn="urn:adsk.eagle:package:26111/2" type="model" library_version="11">
-<description>CECC Size RC3715 Wave Soldering
-source Beyschlag</description>
-<packageinstances>
-<packageinstance name="MINI_MELF-0204W"/>
-</packageinstances>
-</package3d>
-<package3d name="MINI_MELF-0207R" urn="urn:adsk.eagle:package:26113/2" type="model" library_version="11">
-<description>CECC Size RC6123 Reflow Soldering
-source Beyschlag</description>
-<packageinstances>
-<packageinstance name="MINI_MELF-0207R"/>
-</packageinstances>
-</package3d>
-<package3d name="MINI_MELF-0207W" urn="urn:adsk.eagle:package:26112/2" type="model" library_version="11">
-<description>CECC Size RC6123 Wave Soldering
-source Beyschlag</description>
-<packageinstances>
-<packageinstance name="MINI_MELF-0207W"/>
-</packageinstances>
-</package3d>
-<package3d name="R0201" urn="urn:adsk.eagle:package:26117/2" type="model" library_version="11">
+<package3d name="R0201" urn="urn:adsk.eagle:package:26117/1" type="box" library_version="5">
 <description>RESISTOR chip
 Source: http://www.vishay.com/docs/20008/dcrcw.pdf</description>
 <packageinstances>
 <packageinstance name="R0201"/>
 </packageinstances>
 </package3d>
-<package3d name="VTA52" urn="urn:adsk.eagle:package:26116/2" type="model" library_version="11">
+<package3d name="VTA52" urn="urn:adsk.eagle:package:26116/1" type="box" library_version="5">
 <description>Bulk Metal® Foil Technology, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements
 MIL SIZE RBR52
 Source: VISHAY .. vta56.pdf</description>
@@ -5315,7 +5315,7 @@ Source: VISHAY .. vta56.pdf</description>
 <packageinstance name="VTA52"/>
 </packageinstances>
 </package3d>
-<package3d name="VTA53" urn="urn:adsk.eagle:package:26118/2" type="model" library_version="11">
+<package3d name="VTA53" urn="urn:adsk.eagle:package:26118/1" type="box" library_version="5">
 <description>Bulk Metal® Foil Technology, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements
 MIL SIZE RBR53
 Source: VISHAY .. vta56.pdf</description>
@@ -5323,7 +5323,7 @@ Source: VISHAY .. vta56.pdf</description>
 <packageinstance name="VTA53"/>
 </packageinstances>
 </package3d>
-<package3d name="VTA54" urn="urn:adsk.eagle:package:26119/2" type="model" library_version="11">
+<package3d name="VTA54" urn="urn:adsk.eagle:package:26119/1" type="box" library_version="5">
 <description>Bulk Metal® Foil Technology, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements
 MIL SIZE RBR54
 Source: VISHAY .. vta56.pdf</description>
@@ -5331,7 +5331,7 @@ Source: VISHAY .. vta56.pdf</description>
 <packageinstance name="VTA54"/>
 </packageinstances>
 </package3d>
-<package3d name="VTA55" urn="urn:adsk.eagle:package:26120/2" type="model" library_version="11">
+<package3d name="VTA55" urn="urn:adsk.eagle:package:26120/1" type="box" library_version="5">
 <description>Bulk Metal® Foil Technology, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements
 MIL SIZE RBR55
 Source: VISHAY .. vta56.pdf</description>
@@ -5339,7 +5339,7 @@ Source: VISHAY .. vta56.pdf</description>
 <packageinstance name="VTA55"/>
 </packageinstances>
 </package3d>
-<package3d name="VTA56" urn="urn:adsk.eagle:package:26129/3" type="model" library_version="11">
+<package3d name="VTA56" urn="urn:adsk.eagle:package:26129/1" type="box" library_version="5">
 <description>Bulk Metal® Foil Technology, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements
 MIL SIZE RBR56
 Source: VISHAY .. vta56.pdf</description>
@@ -5347,7 +5347,7 @@ Source: VISHAY .. vta56.pdf</description>
 <packageinstance name="VTA56"/>
 </packageinstances>
 </package3d>
-<package3d name="VMTA55" urn="urn:adsk.eagle:package:26121/2" type="model" library_version="11">
+<package3d name="VMTA55" urn="urn:adsk.eagle:package:26121/1" type="box" library_version="5">
 <description>Bulk Metal® Foil Technology, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements
 MIL SIZE RNC55
 Source: VISHAY .. vta56.pdf</description>
@@ -5355,7 +5355,7 @@ Source: VISHAY .. vta56.pdf</description>
 <packageinstance name="VMTA55"/>
 </packageinstances>
 </package3d>
-<package3d name="VMTB60" urn="urn:adsk.eagle:package:26122/2" type="model" library_version="11">
+<package3d name="VMTB60" urn="urn:adsk.eagle:package:26122/1" type="box" library_version="5">
 <description>Bulk Metal® Foil Technology, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements
 MIL SIZE RNC60
 Source: VISHAY .. vta56.pdf</description>
@@ -5363,79 +5363,77 @@ Source: VISHAY .. vta56.pdf</description>
 <packageinstance name="VMTB60"/>
 </packageinstances>
 </package3d>
-<package3d name="R4527" urn="urn:adsk.eagle:package:13310/2" type="model" library_version="11">
+<package3d name="R4527" urn="urn:adsk.eagle:package:13310/1" type="box" library_version="5">
 <description>Package 4527
 Source: http://www.vishay.com/docs/31059/wsrhigh.pdf</description>
 <packageinstances>
 <packageinstance name="R4527"/>
 </packageinstances>
 </package3d>
-<package3d name="WSC0001" urn="urn:adsk.eagle:package:26123/2" type="model" library_version="11">
+<package3d name="WSC0001" urn="urn:adsk.eagle:package:26123/1" type="box" library_version="5">
 <description>Wirewound Resistors, Precision Power
 Source: VISHAY wscwsn.pdf</description>
 <packageinstances>
 <packageinstance name="WSC0001"/>
 </packageinstances>
 </package3d>
-<package3d name="WSC0002" urn="urn:adsk.eagle:package:26125/2" type="model" library_version="11">
+<package3d name="WSC0002" urn="urn:adsk.eagle:package:26125/1" type="box" library_version="5">
 <description>Wirewound Resistors, Precision Power
 Source: VISHAY wscwsn.pdf</description>
 <packageinstances>
 <packageinstance name="WSC0002"/>
 </packageinstances>
 </package3d>
-<package3d name="WSC01/2" urn="urn:adsk.eagle:package:26127/2" type="model" library_version="11">
+<package3d name="WSC01/2" urn="urn:adsk.eagle:package:26127/1" type="box" library_version="5">
 <description>Wirewound Resistors, Precision Power
 Source: VISHAY wscwsn.pdf</description>
 <packageinstances>
 <packageinstance name="WSC01/2"/>
 </packageinstances>
 </package3d>
-<package3d name="WSC2515" urn="urn:adsk.eagle:package:26134/2" type="model" library_version="11">
+<package3d name="WSC2515" urn="urn:adsk.eagle:package:26134/1" type="box" library_version="5">
 <description>Wirewound Resistors, Precision Power
 Source: VISHAY wscwsn.pdf</description>
 <packageinstances>
 <packageinstance name="WSC2515"/>
 </packageinstances>
 </package3d>
-<package3d name="WSC4527" urn="urn:adsk.eagle:package:26126/2" type="model" library_version="11">
+<package3d name="WSC4527" urn="urn:adsk.eagle:package:26126/1" type="box" library_version="5">
 <description>Wirewound Resistors, Precision Power
 Source: VISHAY wscwsn.pdf</description>
 <packageinstances>
 <packageinstance name="WSC4527"/>
 </packageinstances>
 </package3d>
-<package3d name="WSC6927" urn="urn:adsk.eagle:package:26128/2" type="model" library_version="11">
+<package3d name="WSC6927" urn="urn:adsk.eagle:package:26128/1" type="box" library_version="5">
 <description>Wirewound Resistors, Precision Power
 Source: VISHAY wscwsn.pdf</description>
 <packageinstances>
 <packageinstance name="WSC6927"/>
 </packageinstances>
 </package3d>
-<package3d name="R1218" urn="urn:adsk.eagle:package:26131/2" type="model" library_version="11">
+<package3d name="R1218" urn="urn:adsk.eagle:package:26131/1" type="box" library_version="5">
 <description>CRCW1218 Thick Film, Rectangular Chip Resistors
 Source: http://www.vishay.com .. dcrcw.pdf</description>
 <packageinstances>
 <packageinstance name="R1218"/>
 </packageinstances>
 </package3d>
-<package3d name="1812X7R" urn="urn:adsk.eagle:package:26130/2" type="model" library_version="11">
+<package3d name="1812X7R" urn="urn:adsk.eagle:package:26130/1" type="box" library_version="5">
 <description>Chip Monolithic Ceramic Capacitors Medium Voltage High Capacitance for General Use
 Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <packageinstances>
 <packageinstance name="1812X7R"/>
 </packageinstances>
 </package3d>
-<package3d name="PRL1632" urn="urn:adsk.eagle:package:26132/2" type="model" library_version="11">
+<package3d name="PRL1632" urn="urn:adsk.eagle:package:26132/1" type="box" library_version="5">
 <description>PRL1632 are realized as 1W for 3.2 × 1.6mm(1206)
 Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <packageinstances>
 <packageinstance name="PRL1632"/>
 </packageinstances>
 </package3d>
-<package3d name="R01005" urn="urn:adsk.eagle:package:26133/2" type="model" library_version="11">
-<description>Chip, 0.40 X 0.20 X 0.16 mm body
-&lt;p&gt;Chip package with body size 0.40 X 0.20 X 0.16 mm&lt;/p&gt;</description>
+<package3d name="R01005" urn="urn:adsk.eagle:package:26133/1" type="box" library_version="5">
 <packageinstances>
 <packageinstance name="R01005"/>
 </packageinstances>
@@ -6584,7 +6582,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </pinmapping>
 </spice>
 </deviceset>
-<deviceset name="R-EU_" urn="urn:adsk.eagle:component:23791/21" prefix="R" uservalue="yes" library_version="11">
+<deviceset name="R-EU_" urn="urn:adsk.eagle:component:23791/16" prefix="R" uservalue="yes" library_version="5">
 <description>&lt;B&gt;RESISTOR&lt;/B&gt;, European symbol</description>
 <gates>
 <gate name="G$1" symbol="R-EU" x="0" y="0"/>
@@ -6596,11 +6594,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23547/3"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23547/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6611,11 +6608,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23555/3"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23555/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="70" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6630,7 +6626,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="86" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6641,11 +6636,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23537/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23537/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6660,7 +6654,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="41" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6671,11 +6664,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23539/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23539/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6690,7 +6682,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6701,11 +6692,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23541/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23541/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6720,7 +6710,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6731,11 +6720,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23542/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23542/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6750,7 +6738,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6761,11 +6748,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23544/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23544/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6780,7 +6766,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6791,11 +6776,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23565/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23565/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6810,7 +6794,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6821,11 +6804,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23548/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23548/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="5" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6840,7 +6822,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6851,11 +6832,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23550/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23550/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6870,7 +6850,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6881,11 +6860,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23558/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23558/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6900,7 +6878,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6911,11 +6888,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26078/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26078/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6926,11 +6902,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23556/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23556/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="45" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6941,11 +6916,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23566/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23566/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="17" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6956,11 +6930,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23569/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23569/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6971,11 +6944,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23561/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23561/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -6986,11 +6958,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23562/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23562/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7001,11 +6972,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23563/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23563/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7016,11 +6986,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23573/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23573/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7031,11 +7000,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23564/3"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23564/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7050,7 +7018,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="35" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7061,11 +7028,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23498/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23498/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="79" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7080,7 +7046,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="11" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7091,11 +7056,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23491/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23491/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="81" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7110,7 +7074,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="9" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7125,7 +7088,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7140,7 +7102,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="17" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7155,7 +7116,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="4" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7166,11 +7126,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23493/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23493/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="46" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7181,11 +7140,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23567/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23567/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7200,7 +7158,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="6" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7215,7 +7172,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7230,7 +7186,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="5" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7241,11 +7196,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23568/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23568/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7260,7 +7214,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="4" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7271,11 +7224,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23579/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23579/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7290,7 +7242,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7301,11 +7252,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23575/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23575/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7320,7 +7270,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7335,7 +7284,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7346,11 +7294,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23580/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23580/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7365,7 +7312,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7376,11 +7322,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23581/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23581/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7395,7 +7340,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7410,7 +7354,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7425,7 +7368,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7436,11 +7378,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23586/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23586/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7455,7 +7396,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7466,11 +7406,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23591/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23591/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7481,11 +7420,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23588/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:23588/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7496,11 +7434,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26109/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26109/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7511,11 +7448,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26111/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26111/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7526,11 +7462,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26113/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26113/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7541,11 +7476,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26112/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26112/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7560,7 +7494,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7575,7 +7508,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7590,7 +7522,6 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7601,11 +7532,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26117/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26117/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7616,11 +7546,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26116/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26116/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7631,11 +7560,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26118/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26118/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7646,11 +7574,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26119/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26119/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7661,11 +7588,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26120/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26120/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7676,11 +7602,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26129/3"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26129/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7691,11 +7616,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26121/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26121/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7706,11 +7630,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26122/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26122/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7721,11 +7644,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:13310/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:13310/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7736,11 +7658,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26123/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26123/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7751,11 +7672,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26125/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26125/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7766,11 +7686,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26127/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26127/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7781,11 +7700,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26134/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26134/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7796,11 +7714,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26126/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26126/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7811,11 +7728,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26128/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26128/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7826,11 +7742,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26131/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26131/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7841,11 +7756,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26130/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26130/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7856,11 +7770,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26132/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26132/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7871,11 +7784,10 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26133/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26133/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7961,6 +7873,113 @@ Source: &lt;a href="https://www.torexsemi.com/file/xc6219/XC6219.pdf"&gt; Datash
 <attribute name="MANUFACTURER_PART_NUMBER" value="XC6219A332MR-G" constant="no"/>
 <attribute name="MOUSER_PART_NUMBER" value="865-XC6219A332MR-G" constant="no"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Torex-Semiconductor/XC6219A332MR-G?qs=AsjdqWjXhJ%2FqZhqmpYowVg%3D%3D" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+<library name="47219-2001">
+<description>&lt;Molex 47219 Series 8 Way Horizontal Hinged Micro SD Memory Card Connector with Solder Termination&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by SamacSys&lt;/author&gt;</description>
+<packages>
+<package name="472192001">
+<description>&lt;b&gt;47219-2001&lt;/b&gt;&lt;br&gt;
+</description>
+<smd name="1" x="3.205" y="-1.8" dx="1.5" dy="0.8" layer="1" rot="R90"/>
+<smd name="2" x="2.105" y="-1.8" dx="1.5" dy="0.8" layer="1" rot="R90"/>
+<smd name="3" x="1.005" y="-1.8" dx="1.5" dy="0.8" layer="1" rot="R90"/>
+<smd name="4" x="-0.095" y="-1.8" dx="1.5" dy="0.8" layer="1" rot="R90"/>
+<smd name="5" x="-1.195" y="-1.8" dx="1.5" dy="0.8" layer="1" rot="R90"/>
+<smd name="6" x="-2.295" y="-1.8" dx="1.5" dy="0.8" layer="1" rot="R90"/>
+<smd name="7" x="-3.395" y="-1.8" dx="1.5" dy="0.8" layer="1" rot="R90"/>
+<smd name="8" x="-4.495" y="-1.8" dx="1.5" dy="0.8" layer="1" rot="R90"/>
+<smd name="9" x="-6.875" y="-4.4" dx="2" dy="1.45" layer="1" rot="R90"/>
+<smd name="10" x="-6.875" y="3.9" dx="2" dy="1.45" layer="1" rot="R90"/>
+<smd name="11" x="6.875" y="3.9" dx="2" dy="1.45" layer="1" rot="R90"/>
+<smd name="12" x="6.875" y="-4.4" dx="2" dy="1.45" layer="1" rot="R90"/>
+<text x="0" y="0" size="1.27" layer="25" align="center">&gt;NAME</text>
+<text x="0" y="0" size="1.27" layer="27" align="center">&gt;VALUE</text>
+<wire x1="-6.8" y1="7.55" x2="6.8" y2="7.55" width="0.2" layer="51"/>
+<wire x1="6.8" y1="7.55" x2="6.8" y2="-6.95" width="0.2" layer="51"/>
+<wire x1="6.8" y1="-6.95" x2="-6.8" y2="-6.95" width="0.2" layer="51"/>
+<wire x1="-6.8" y1="-6.95" x2="-6.8" y2="7.55" width="0.2" layer="51"/>
+<wire x1="-8.6" y1="8.55" x2="8.6" y2="8.55" width="0.1" layer="51"/>
+<wire x1="8.6" y1="8.55" x2="8.6" y2="-8.55" width="0.1" layer="51"/>
+<wire x1="8.6" y1="-8.55" x2="-8.6" y2="-8.55" width="0.1" layer="51"/>
+<wire x1="-8.6" y1="-8.55" x2="-8.6" y2="8.55" width="0.1" layer="51"/>
+<wire x1="-6.8" y1="6.05" x2="-6.8" y2="7.55" width="0.1" layer="21"/>
+<wire x1="-6.8" y1="7.55" x2="6.8" y2="7.55" width="0.1" layer="21"/>
+<wire x1="6.8" y1="7.55" x2="6.8" y2="6.05" width="0.1" layer="21"/>
+<wire x1="-6.8" y1="6.05" x2="-6.8" y2="5.55" width="0.1" layer="21"/>
+<wire x1="6.8" y1="6.05" x2="6.8" y2="5.55" width="0.1" layer="21"/>
+<wire x1="-6.8" y1="2.55" x2="-6.8" y2="-2.95" width="0.1" layer="21"/>
+<wire x1="6.8" y1="2.55" x2="6.8" y2="-2.95" width="0.1" layer="21"/>
+<wire x1="-6.8" y1="-5.95" x2="-6.8" y2="-6.95" width="0.1" layer="21"/>
+<wire x1="-6.8" y1="-6.95" x2="6.8" y2="-6.95" width="0.1" layer="21"/>
+<wire x1="6.8" y1="-6.95" x2="6.8" y2="-5.95" width="0.1" layer="21"/>
+<wire x1="3.2" y1="-7.45" x2="3.2" y2="-7.45" width="0.2" layer="21"/>
+<wire x1="3.2" y1="-7.45" x2="3.4" y2="-7.45" width="0.2" layer="21" curve="-180"/>
+<wire x1="3.4" y1="-7.45" x2="3.4" y2="-7.45" width="0.2" layer="21"/>
+<wire x1="3.4" y1="-7.45" x2="3.2" y2="-7.45" width="0.2" layer="21" curve="-180"/>
+</package>
+</packages>
+<symbols>
+<symbol name="47219-2001">
+<wire x1="5.08" y1="2.54" x2="27.94" y2="2.54" width="0.254" layer="94"/>
+<wire x1="27.94" y1="-15.24" x2="27.94" y2="2.54" width="0.254" layer="94"/>
+<wire x1="27.94" y1="-15.24" x2="5.08" y2="-15.24" width="0.254" layer="94"/>
+<wire x1="5.08" y1="2.54" x2="5.08" y2="-15.24" width="0.254" layer="94"/>
+<text x="29.21" y="7.62" size="1.778" layer="95" align="center-left">&gt;NAME</text>
+<text x="29.21" y="5.08" size="1.778" layer="96" align="center-left">&gt;VALUE</text>
+<pin name="DAT2" x="0" y="0" length="middle"/>
+<pin name="CD/DAT3" x="0" y="-2.54" length="middle"/>
+<pin name="CMD" x="0" y="-5.08" length="middle"/>
+<pin name="VDD" x="0" y="-7.62" length="middle"/>
+<pin name="CLK" x="0" y="-10.16" length="middle"/>
+<pin name="VSS" x="0" y="-12.7" length="middle"/>
+<pin name="DAT0" x="33.02" y="0" length="middle" rot="R180"/>
+<pin name="DAT1" x="33.02" y="-2.54" length="middle" rot="R180"/>
+<pin name="GND_1" x="33.02" y="-5.08" length="middle" rot="R180"/>
+<pin name="GND_2" x="33.02" y="-7.62" length="middle" rot="R180"/>
+<pin name="GND_3" x="33.02" y="-10.16" length="middle" rot="R180"/>
+<pin name="GND_4" x="33.02" y="-12.7" length="middle" rot="R180"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="47219-2001" prefix="J">
+<description>&lt;b&gt;Molex 47219 Series 8 Way Horizontal Hinged Micro SD Memory Card Connector with Solder Termination&lt;/b&gt;&lt;p&gt;
+Source: &lt;a href="http://www.molex.com/molex/products/datasheet.jsp?part=active/0472192001_MEMORY_CARD_SOCKET.xml&amp;channel=Products&amp;Lang=en-US"&gt; Datasheet &lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="47219-2001" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="472192001">
+<connects>
+<connect gate="G$1" pin="CD/DAT3" pad="2"/>
+<connect gate="G$1" pin="CLK" pad="5"/>
+<connect gate="G$1" pin="CMD" pad="3"/>
+<connect gate="G$1" pin="DAT0" pad="7"/>
+<connect gate="G$1" pin="DAT1" pad="8"/>
+<connect gate="G$1" pin="DAT2" pad="1"/>
+<connect gate="G$1" pin="GND_1" pad="9"/>
+<connect gate="G$1" pin="GND_2" pad="10"/>
+<connect gate="G$1" pin="GND_3" pad="11"/>
+<connect gate="G$1" pin="GND_4" pad="12"/>
+<connect gate="G$1" pin="VDD" pad="4"/>
+<connect gate="G$1" pin="VSS" pad="6"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="ARROW_PART_NUMBER" value="" constant="no"/>
+<attribute name="ARROW_PRICE-STOCK" value="" constant="no"/>
+<attribute name="DESCRIPTION" value="Molex 47219 Series 8 Way Horizontal Hinged Micro SD Memory Card Connector with Solder Termination" constant="no"/>
+<attribute name="HEIGHT" value="mm" constant="no"/>
+<attribute name="MANUFACTURER_NAME" value="Molex" constant="no"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="47219-2001" constant="no"/>
+<attribute name="MOUSER_PART_NUMBER" value="538-47219-2001" constant="no"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Molex/47219-2001?qs=6kT3pPPHxnVaoXw6Dd7beQ%3D%3D" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -8382,308 +8401,6 @@ Source: http://www.leotronics.co.uk/Conexcon/Data%20Sheets/sec.%20A/1364ing.pdf<
 </deviceset>
 </devicesets>
 </library>
-<library name="SC32S-7PF20PPM">
-<description>&lt;32.768 kHz +/-20ppm Crystal 7pF 70 kOhms 2-SMD, No Lead&lt;/b&gt;&lt;p&gt;
-&lt;author&gt;Created by SamacSys&lt;/author&gt;</description>
-<packages>
-<package name="SC32S7PF20PPM">
-<description>&lt;b&gt;3.2 x 1.5 x 0.85 mm&lt;/b&gt;&lt;br&gt;
-</description>
-<smd name="1" x="-1.25" y="0" dx="1.8" dy="1" layer="1" rot="R90"/>
-<smd name="2" x="1.25" y="0" dx="1.8" dy="1" layer="1" rot="R90"/>
-<text x="0" y="0" size="1.27" layer="25" align="center">&gt;NAME</text>
-<text x="0" y="0" size="1.27" layer="27" align="center">&gt;VALUE</text>
-<wire x1="-1.6" y1="0.75" x2="1.6" y2="0.75" width="0.1" layer="51"/>
-<wire x1="1.6" y1="0.75" x2="1.6" y2="-0.75" width="0.1" layer="51"/>
-<wire x1="1.6" y1="-0.75" x2="-1.6" y2="-0.75" width="0.1" layer="51"/>
-<wire x1="-1.6" y1="-0.75" x2="-1.6" y2="0.75" width="0.1" layer="51"/>
-<wire x1="-2.75" y1="1.9" x2="2.75" y2="1.9" width="0.1" layer="51"/>
-<wire x1="2.75" y1="1.9" x2="2.75" y2="-1.9" width="0.1" layer="51"/>
-<wire x1="2.75" y1="-1.9" x2="-2.75" y2="-1.9" width="0.1" layer="51"/>
-<wire x1="-2.75" y1="-1.9" x2="-2.75" y2="1.9" width="0.1" layer="51"/>
-<wire x1="-0.4" y1="0.75" x2="0.4" y2="0.75" width="0.2" layer="21"/>
-<wire x1="-0.4" y1="-0.75" x2="0.4" y2="-0.75" width="0.2" layer="21"/>
-<wire x1="-2.4" y1="0" x2="-2.4" y2="0" width="0.2" layer="21"/>
-<wire x1="-2.4" y1="0" x2="-2.3" y2="0" width="0.2" layer="21" curve="180"/>
-<wire x1="-2.3" y1="0" x2="-2.3" y2="0" width="0.2" layer="21"/>
-<wire x1="-2.3" y1="0" x2="-2.4" y2="0" width="0.2" layer="21" curve="180"/>
-<wire x1="-2.4" y1="0" x2="-2.4" y2="0" width="0.2" layer="21"/>
-<wire x1="-2.4" y1="0" x2="-2.3" y2="0" width="0.2" layer="21" curve="180"/>
-</package>
-</packages>
-<symbols>
-<symbol name="SC32S-7PF20PPM">
-<wire x1="5.08" y1="2.54" x2="25.4" y2="2.54" width="0.254" layer="94"/>
-<wire x1="25.4" y1="-5.08" x2="25.4" y2="2.54" width="0.254" layer="94"/>
-<wire x1="25.4" y1="-5.08" x2="5.08" y2="-5.08" width="0.254" layer="94"/>
-<wire x1="5.08" y1="2.54" x2="5.08" y2="-5.08" width="0.254" layer="94"/>
-<text x="26.67" y="7.62" size="1.778" layer="95" align="center-left">&gt;NAME</text>
-<text x="26.67" y="5.08" size="1.778" layer="96" align="center-left">&gt;VALUE</text>
-<pin name="CRYSTAL_1" x="0" y="0" length="middle"/>
-<pin name="CRYSTAL_2" x="0" y="-2.54" length="middle"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="SC32S-7PF20PPM" prefix="Y">
-<description>&lt;b&gt;32.768 kHz +/-20ppm Crystal 7pF 70 kOhms 2-SMD, No Lead&lt;/b&gt;&lt;p&gt;
-Source: &lt;a href="https://datasheet.datasheetarchive.com/originals/dk/DKDS-19/378254.pdf"&gt; Datasheet &lt;/a&gt;</description>
-<gates>
-<gate name="G$1" symbol="SC32S-7PF20PPM" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="SC32S7PF20PPM">
-<connects>
-<connect gate="G$1" pin="CRYSTAL_1" pad="1"/>
-<connect gate="G$1" pin="CRYSTAL_2" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="ARROW_PART_NUMBER" value="" constant="no"/>
-<attribute name="ARROW_PRICE-STOCK" value="" constant="no"/>
-<attribute name="DESCRIPTION" value="32.768 kHz +/-20ppm Crystal 7pF 70 kOhms 2-SMD, No Lead" constant="no"/>
-<attribute name="HEIGHT" value="0.85mm" constant="no"/>
-<attribute name="MANUFACTURER_NAME" value="Seiko Semiconductors" constant="no"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="SC32S-7PF20PPM" constant="no"/>
-<attribute name="MOUSER_PART_NUMBER" value="628-SC32S-7PF20PPM" constant="no"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Seiko-Semiconductors/SC32S-7PF20PPM?qs=3CPZD7qAgigZSR1ASVAS6w%3D%3D" constant="no"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
-<library name="47571-0001">
-<description>&lt;Memory Card Connectors ASSY FOR TFR HEADER HEADER W/DETECT PIN&lt;/b&gt;&lt;p&gt;
-&lt;author&gt;Created by SamacSys&lt;/author&gt;</description>
-<packages>
-<package name="475710001">
-<description>&lt;b&gt;47571-0001-3&lt;/b&gt;&lt;br&gt;
-</description>
-<smd name="G1" x="-5.225" y="0.39" dx="1.2" dy="1.15" layer="1" rot="R90"/>
-<smd name="G2" x="-5.225" y="-2.2" dx="1.2" dy="1.15" layer="1" rot="R90"/>
-<smd name="G3" x="5.175" y="-0.05" dx="1.45" dy="1.2" layer="1"/>
-<smd name="G4" x="5.4" y="-1.2" dx="1" dy="0.7" layer="1"/>
-<smd name="G5" x="5.2" y="-2.35" dx="1.4" dy="0.9" layer="1"/>
-<smd name="P1" x="3.55" y="1.44" dx="1" dy="0.7" layer="1" rot="R90"/>
-<smd name="P2" x="2.45" y="1.44" dx="1" dy="0.7" layer="1" rot="R90"/>
-<smd name="P3" x="1.35" y="1.44" dx="1" dy="0.7" layer="1" rot="R90"/>
-<smd name="P4" x="0.25" y="1.44" dx="1" dy="0.7" layer="1" rot="R90"/>
-<smd name="P5" x="-0.85" y="1.44" dx="1" dy="0.7" layer="1" rot="R90"/>
-<smd name="P6" x="-1.95" y="1.44" dx="1" dy="0.7" layer="1" rot="R90"/>
-<smd name="P7" x="-3.05" y="1.44" dx="1" dy="0.7" layer="1" rot="R90"/>
-<smd name="P8" x="-4.15" y="1.44" dx="1" dy="0.7" layer="1" rot="R90"/>
-<text x="0.05" y="0.413" size="1.27" layer="25" align="center">&gt;NAME</text>
-<text x="0.05" y="0.413" size="1.27" layer="27" align="center">&gt;VALUE</text>
-<wire x1="-5.7" y1="2.75" x2="5.7" y2="2.75" width="0.2" layer="51"/>
-<wire x1="5.7" y1="2.75" x2="5.7" y2="-2.7" width="0.2" layer="51"/>
-<wire x1="5.7" y1="-2.7" x2="-5.7" y2="-2.7" width="0.2" layer="51"/>
-<wire x1="-5.7" y1="-2.7" x2="-5.7" y2="2.75" width="0.2" layer="51"/>
-<wire x1="-6.8" y1="4.625" x2="6.9" y2="4.625" width="0.1" layer="51"/>
-<wire x1="6.9" y1="4.625" x2="6.9" y2="-3.8" width="0.1" layer="51"/>
-<wire x1="6.9" y1="-3.8" x2="-6.8" y2="-3.8" width="0.1" layer="51"/>
-<wire x1="-6.8" y1="-3.8" x2="-6.8" y2="4.625" width="0.1" layer="51"/>
-<wire x1="3.5" y1="3.525" x2="3.5" y2="3.525" width="0.2" layer="21"/>
-<wire x1="3.5" y1="3.525" x2="3.5" y2="3.625" width="0.2" layer="21" curve="180"/>
-<wire x1="3.5" y1="3.625" x2="3.5" y2="3.625" width="0.2" layer="21"/>
-<wire x1="3.5" y1="3.625" x2="3.5" y2="3.525" width="0.2" layer="21" curve="180"/>
-<wire x1="3.5" y1="3.525" x2="3.5" y2="3.525" width="0.2" layer="21"/>
-<wire x1="3.5" y1="3.525" x2="3.5" y2="3.625" width="0.2" layer="21" curve="180"/>
-<wire x1="-5.7" y1="1.225" x2="-5.7" y2="2.75" width="0.1" layer="21"/>
-<wire x1="-5.7" y1="2.75" x2="5.7" y2="2.75" width="0.1" layer="21"/>
-<wire x1="5.7" y1="2.75" x2="5.7" y2="0.825" width="0.1" layer="21"/>
-<wire x1="-4.4" y1="-2.7" x2="4.2" y2="-2.7" width="0.1" layer="21"/>
-</package>
-</packages>
-<symbols>
-<symbol name="47571-0001">
-<wire x1="5.08" y1="2.54" x2="27.94" y2="2.54" width="0.254" layer="94"/>
-<wire x1="27.94" y1="-17.78" x2="27.94" y2="2.54" width="0.254" layer="94"/>
-<wire x1="27.94" y1="-17.78" x2="5.08" y2="-17.78" width="0.254" layer="94"/>
-<wire x1="5.08" y1="2.54" x2="5.08" y2="-17.78" width="0.254" layer="94"/>
-<text x="29.21" y="7.62" size="1.778" layer="95" align="center-left">&gt;NAME</text>
-<text x="29.21" y="5.08" size="1.778" layer="96" align="center-left">&gt;VALUE</text>
-<pin name="GND_1" x="0" y="0" length="middle"/>
-<pin name="GND_2" x="0" y="-2.54" length="middle"/>
-<pin name="GND_3" x="0" y="-5.08" length="middle"/>
-<pin name="POL" x="0" y="-7.62" length="middle"/>
-<pin name="DET" x="0" y="-10.16" length="middle"/>
-<pin name="DAT2" x="0" y="-12.7" length="middle"/>
-<pin name="CD/DAT3" x="0" y="-15.24" length="middle"/>
-<pin name="CMD" x="33.02" y="0" length="middle" rot="R180"/>
-<pin name="VDD" x="33.02" y="-2.54" length="middle" rot="R180"/>
-<pin name="CLK" x="33.02" y="-5.08" length="middle" rot="R180"/>
-<pin name="VSS" x="33.02" y="-7.62" length="middle" rot="R180"/>
-<pin name="DAT0" x="33.02" y="-10.16" length="middle" rot="R180"/>
-<pin name="DAT1" x="33.02" y="-12.7" length="middle" rot="R180"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="47571-0001" prefix="J">
-<description>&lt;b&gt;Memory Card Connectors ASSY FOR TFR HEADER HEADER W/DETECT PIN&lt;/b&gt;&lt;p&gt;
-Source: &lt;a href="https://componentsearchengine.com/Datasheets/2/47571-0001.pdf"&gt; Datasheet &lt;/a&gt;</description>
-<gates>
-<gate name="G$1" symbol="47571-0001" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="475710001">
-<connects>
-<connect gate="G$1" pin="CD/DAT3" pad="P2"/>
-<connect gate="G$1" pin="CLK" pad="P5"/>
-<connect gate="G$1" pin="CMD" pad="P3"/>
-<connect gate="G$1" pin="DAT0" pad="P7"/>
-<connect gate="G$1" pin="DAT1" pad="P8"/>
-<connect gate="G$1" pin="DAT2" pad="P1"/>
-<connect gate="G$1" pin="DET" pad="G5"/>
-<connect gate="G$1" pin="GND_1" pad="G1"/>
-<connect gate="G$1" pin="GND_2" pad="G2"/>
-<connect gate="G$1" pin="GND_3" pad="G3"/>
-<connect gate="G$1" pin="POL" pad="G4"/>
-<connect gate="G$1" pin="VDD" pad="P4"/>
-<connect gate="G$1" pin="VSS" pad="P6"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="ARROW_PART_NUMBER" value="" constant="no"/>
-<attribute name="ARROW_PRICE-STOCK" value="" constant="no"/>
-<attribute name="DESCRIPTION" value="Memory Card Connectors ASSY FOR TFR HEADER HEADER W/DETECT PIN" constant="no"/>
-<attribute name="HEIGHT" value="2.3mm" constant="no"/>
-<attribute name="MANUFACTURER_NAME" value="Molex" constant="no"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="47571-0001" constant="no"/>
-<attribute name="MOUSER_PART_NUMBER" value="538-47571-0001" constant="no"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Molex/47571-0001?qs=qM7ngqbhX5UTJOg9nqKLJQ%3D%3D" constant="no"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
-<library name="CX60-24S-UNIT">
-<packages>
-<package name="HIROSE_CX60-24S-UNIT">
-<wire x1="-4.125" y1="0.375" x2="4.125" y2="0.375" width="0.127" layer="51"/>
-<wire x1="4.125" y1="0.375" x2="4.125" y2="-1.125" width="0.127" layer="51"/>
-<wire x1="4.125" y1="-1.125" x2="4.125" y2="-10.525" width="0.127" layer="51"/>
-<wire x1="4.125" y1="-10.525" x2="-4.125" y2="-10.525" width="0.127" layer="51"/>
-<wire x1="-4.125" y1="-10.525" x2="-4.125" y2="-1.125" width="0.127" layer="51"/>
-<wire x1="-4.125" y1="-1.125" x2="-4.125" y2="0.375" width="0.127" layer="51"/>
-<text x="-4" y="2" size="1.27" layer="25">&gt;NAME</text>
-<text x="-4" y="-11.5" size="1.27" layer="27" align="top-left">&gt;VALUE</text>
-<wire x1="-4.48" y1="1.175" x2="4.48" y2="1.175" width="0.05" layer="39"/>
-<wire x1="4.48" y1="1.175" x2="4.48" y2="-10.775" width="0.05" layer="39"/>
-<wire x1="4.48" y1="-10.775" x2="-4.48" y2="-10.775" width="0.05" layer="39"/>
-<wire x1="-4.48" y1="-10.775" x2="-4.48" y2="1.175" width="0.05" layer="39"/>
-<circle x="2.75" y="1.5" radius="0.1" width="0.2" layer="21"/>
-<circle x="2.75" y="1.5" radius="0.1" width="0.2" layer="51"/>
-<wire x1="-4.125" y1="-1.125" x2="4.125" y2="-1.125" width="0.127" layer="51"/>
-<text x="-2.5" y="-2.25" size="0.8128" layer="51">PCB Edge</text>
-<smd name="S1" x="3.64" y="0" dx="1.18" dy="1.85" layer="1"/>
-<smd name="S2" x="-3.64" y="0" dx="1.18" dy="1.85" layer="1"/>
-<smd name="A1" x="2.75" y="0" dx="0.3" dy="1.85" layer="1"/>
-<smd name="A2" x="2.25" y="0" dx="0.3" dy="1.25" layer="1"/>
-<smd name="A3" x="1.75" y="0" dx="0.3" dy="1.25" layer="1"/>
-<smd name="A4" x="1.25" y="0" dx="0.3" dy="1.25" layer="1"/>
-<smd name="A5" x="0.75" y="0" dx="0.3" dy="1.25" layer="1"/>
-<smd name="A6" x="0.25" y="0" dx="0.3" dy="1.25" layer="1"/>
-<smd name="A7" x="-0.25" y="0" dx="0.3" dy="1.25" layer="1"/>
-<smd name="A8" x="-0.75" y="0" dx="0.3" dy="1.25" layer="1"/>
-<smd name="A9" x="-1.25" y="0" dx="0.3" dy="1.25" layer="1"/>
-<smd name="A10" x="-1.75" y="0" dx="0.3" dy="1.25" layer="1"/>
-<smd name="A11" x="-2.25" y="0" dx="0.3" dy="1.25" layer="1"/>
-<smd name="A12" x="-2.75" y="0" dx="0.3" dy="1.85" layer="1"/>
-<smd name="S4" x="-3.64" y="0" dx="1.18" dy="1.85" layer="16"/>
-<smd name="S3" x="3.64" y="0" dx="1.18" dy="1.85" layer="16"/>
-<smd name="B1" x="-2.75" y="0" dx="0.3" dy="1.85" layer="16"/>
-<smd name="B2" x="-2.25" y="0" dx="0.3" dy="1.25" layer="16"/>
-<smd name="B3" x="-1.75" y="0" dx="0.3" dy="1.25" layer="16"/>
-<smd name="B4" x="-1.25" y="0" dx="0.3" dy="1.25" layer="16"/>
-<smd name="B5" x="-0.75" y="0" dx="0.3" dy="1.25" layer="16"/>
-<smd name="B6" x="-0.25" y="0" dx="0.3" dy="1.25" layer="16"/>
-<smd name="B7" x="0.25" y="0" dx="0.3" dy="1.25" layer="16"/>
-<smd name="B8" x="0.75" y="0" dx="0.3" dy="1.25" layer="16"/>
-<smd name="B9" x="1.25" y="0" dx="0.3" dy="1.25" layer="16"/>
-<smd name="B10" x="1.75" y="0" dx="0.3" dy="1.25" layer="16"/>
-<smd name="B11" x="2.25" y="0" dx="0.3" dy="1.25" layer="16"/>
-<smd name="B12" x="2.75" y="0" dx="0.3" dy="1.85" layer="16"/>
-</package>
-</packages>
-<symbols>
-<symbol name="CX60-24S-UNIT">
-<wire x1="-15.24" y1="15.24" x2="15.24" y2="15.24" width="0.254" layer="94"/>
-<wire x1="15.24" y1="15.24" x2="15.24" y2="-17.78" width="0.254" layer="94"/>
-<wire x1="15.24" y1="-17.78" x2="-15.24" y2="-17.78" width="0.254" layer="94"/>
-<wire x1="-15.24" y1="-17.78" x2="-15.24" y2="15.24" width="0.254" layer="94"/>
-<text x="-15.24" y="16.51" size="1.778" layer="95">&gt;NAME</text>
-<text x="-15.24" y="-19.05" size="1.778" layer="96" rot="MR180">&gt;VALUE</text>
-<pin name="TX1+" x="-20.32" y="10.16" length="middle"/>
-<pin name="TX1-" x="-20.32" y="7.62" length="middle"/>
-<pin name="VBUS_A" x="-20.32" y="12.7" length="middle" direction="pwr"/>
-<pin name="CC" x="-20.32" y="5.08" length="middle"/>
-<pin name="D+" x="-20.32" y="2.54" length="middle"/>
-<pin name="D-" x="-20.32" y="0" length="middle"/>
-<pin name="SBU1" x="-20.32" y="-2.54" length="middle"/>
-<pin name="RX2-" x="-20.32" y="-5.08" length="middle"/>
-<pin name="RX2+" x="-20.32" y="-7.62" length="middle"/>
-<pin name="GNDA" x="-20.32" y="-10.16" length="middle" direction="pwr"/>
-<pin name="RX1+" x="20.32" y="10.16" length="middle" rot="R180"/>
-<pin name="RX1-" x="20.32" y="7.62" length="middle" rot="R180"/>
-<pin name="VBUS_B" x="20.32" y="12.7" length="middle" direction="pwr" rot="R180"/>
-<pin name="SBU2" x="20.32" y="5.08" length="middle" rot="R180"/>
-<pin name="VCONN" x="20.32" y="-2.54" length="middle" rot="R180"/>
-<pin name="TX2-" x="20.32" y="-5.08" length="middle" rot="R180"/>
-<pin name="TX2+" x="20.32" y="-7.62" length="middle" rot="R180"/>
-<pin name="GNDB" x="20.32" y="-10.16" length="middle" direction="pwr" rot="R180"/>
-<pin name="SHIELD1" x="-20.32" y="-15.24" length="middle" direction="pas"/>
-<pin name="SHIELD2" x="20.32" y="-15.24" length="middle" direction="pas" rot="R180"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="CX60-24S-UNIT" prefix="J">
-<description>USB-C (USB TYPE-C) USB 3.1 (USB 3.1 Gen 2, Superspeed+) Plug Connector 24 Position Board Edge, Straddle Mount &lt;a href="https://pricing.snapeda.com/parts/CX60-24S-UNIT/Hirose%20Electric%20Co%20Ltd/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
-<gates>
-<gate name="G$1" symbol="CX60-24S-UNIT" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="HIROSE_CX60-24S-UNIT">
-<connects>
-<connect gate="G$1" pin="CC" pad="A5"/>
-<connect gate="G$1" pin="D+" pad="A6"/>
-<connect gate="G$1" pin="D-" pad="A7"/>
-<connect gate="G$1" pin="GNDA" pad="A1 A12"/>
-<connect gate="G$1" pin="GNDB" pad="B1 B12"/>
-<connect gate="G$1" pin="RX1+" pad="B11"/>
-<connect gate="G$1" pin="RX1-" pad="B10"/>
-<connect gate="G$1" pin="RX2+" pad="A11"/>
-<connect gate="G$1" pin="RX2-" pad="A10"/>
-<connect gate="G$1" pin="SBU1" pad="A8"/>
-<connect gate="G$1" pin="SBU2" pad="B8"/>
-<connect gate="G$1" pin="SHIELD1" pad="S1 S2"/>
-<connect gate="G$1" pin="SHIELD2" pad="S3 S4"/>
-<connect gate="G$1" pin="TX1+" pad="A2"/>
-<connect gate="G$1" pin="TX1-" pad="A3"/>
-<connect gate="G$1" pin="TX2+" pad="B2"/>
-<connect gate="G$1" pin="TX2-" pad="B3"/>
-<connect gate="G$1" pin="VBUS_A" pad="A4 A9"/>
-<connect gate="G$1" pin="VBUS_B" pad="B4 B9"/>
-<connect gate="G$1" pin="VCONN" pad="B5"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="AVAILABILITY" value="In Stock"/>
-<attribute name="DESCRIPTION" value=" USB-C (USB TYPE-C) USB 3.2 Gen 2 (USB 3.1 Gen 2, Superspeed + (USB 3.1)) Plug Connector 24 Position Board Edge, Straddle Mount "/>
-<attribute name="MF" value="Hirose Electric Co Ltd"/>
-<attribute name="MP" value="CX60-24S-UNIT"/>
-<attribute name="PACKAGE" value="None"/>
-<attribute name="PRICE" value="None"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CX60-24S-UNIT/?ref=eda"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 </libraries>
 <attributes>
 </attributes>
@@ -8695,44 +8412,40 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/2/47571-0001.pd
 </classes>
 <parts>
 <part name="FRAME1" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="DINA4_L" device=""/>
-<part name="C1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603K" package3d_urn="urn:adsk.eagle:package:23680/2" value="15pF"/>
-<part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603K" package3d_urn="urn:adsk.eagle:package:23680/2" value="15pF"/>
+<part name="C1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603K" package3d_urn="urn:adsk.eagle:package:23680/2" value="1uF"/>
+<part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603K" package3d_urn="urn:adsk.eagle:package:23680/2" value="10uF"/>
 <part name="C3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603K" package3d_urn="urn:adsk.eagle:package:23680/2" value="10uF"/>
 <part name="IC2" library="XC6219A332MR-G" deviceset="XC6219A332MR-G" device=""/>
+<part name="MICRO-SD" library="47219-2001" deviceset="47219-2001" device=""/>
 <part name="J2" library="UP2-AH-1-TH" deviceset="UP2-AH-1-TH" device=""/>
-<part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="22R"/>
-<part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="22R"/>
+<part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="22R"/>
+<part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="22R"/>
 <part name="J4" library="FTS-103-01-L-DV-TR" deviceset="FTS-103-01-L-DV-TR" device=""/>
 <part name="IC1" library="ATSAMD21E15B-AUT" deviceset="ATSAMD21E15B-AUT" device=""/>
 <part name="X1" library="con-leotronics" library_urn="urn:adsk.eagle:library:160" deviceset="1365-10" device="" package3d_urn="urn:adsk.eagle:package:7957/1"/>
-<part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603K" package3d_urn="urn:adsk.eagle:package:23680/2" value="1uF"/>
-<part name="Y1" library="SC32S-7PF20PPM" deviceset="SC32S-7PF20PPM" device=""/>
-<part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="10k"/>
-<part name="J1" library="47571-0001" deviceset="47571-0001" device=""/>
-<part name="J3" library="CX60-24S-UNIT" deviceset="CX60-24S-UNIT" device=""/>
 </parts>
 <sheets>
 <sheet>
 <plain>
 <wire x1="162.56" y1="180.34" x2="161.29" y2="180.34" width="0.254" layer="94"/>
 <text x="195.58" y="27.94" size="3.81" layer="94">BadUSB Schematic</text>
-<wire x1="162.56" y1="0" x2="162.56" y2="71.12" width="0.3048" layer="94"/>
-<wire x1="162.56" y1="71.12" x2="162.56" y2="96.52" width="0.3048" layer="94"/>
-<wire x1="162.56" y1="121.92" x2="162.56" y2="149.86" width="0.3048" layer="94"/>
-<wire x1="162.56" y1="149.86" x2="162.56" y2="180.34" width="0.3048" layer="94"/>
-<wire x1="264.16" y1="121.92" x2="162.56" y2="121.92" width="0.3048" layer="94"/>
-<wire x1="162.56" y1="121.92" x2="162.56" y2="96.52" width="0.3048" layer="94"/>
-<wire x1="162.56" y1="96.52" x2="264.16" y2="96.52" width="0.3048" layer="94"/>
-<wire x1="264.16" y1="96.52" x2="264.16" y2="71.12" width="0.3048" layer="94"/>
-<wire x1="264.16" y1="71.12" x2="162.56" y2="71.12" width="0.3048" layer="94"/>
+<wire x1="162.56" y1="0" x2="162.56" y2="68.58" width="0.3048" layer="94"/>
+<wire x1="162.56" y1="68.58" x2="162.56" y2="93.98" width="0.3048" layer="94"/>
+<wire x1="162.56" y1="119.38" x2="162.56" y2="147.32" width="0.3048" layer="94"/>
+<wire x1="162.56" y1="147.32" x2="162.56" y2="180.34" width="0.3048" layer="94"/>
+<wire x1="264.16" y1="119.38" x2="162.56" y2="119.38" width="0.3048" layer="94"/>
+<wire x1="162.56" y1="119.38" x2="162.56" y2="93.98" width="0.3048" layer="94"/>
+<wire x1="162.56" y1="93.98" x2="264.16" y2="93.98" width="0.3048" layer="94"/>
+<wire x1="264.16" y1="93.98" x2="264.16" y2="68.58" width="0.3048" layer="94"/>
+<wire x1="264.16" y1="68.58" x2="162.56" y2="68.58" width="0.3048" layer="94"/>
 <text x="200.66" y="38.1" size="2.1844" layer="94">MICRO-SD CONNECTOR</text>
-<text x="208.28" y="73.66" size="2.1844" layer="94">3.3V LDO</text>
-<text x="203.2" y="99.06" size="2.1844" layer="94">USB-A CONNECTOR</text>
-<text x="205.74" y="124.46" size="2.1844" layer="94">ICSP HEADER</text>
+<text x="208.28" y="71.12" size="2.1844" layer="94">3.3V LDO</text>
+<text x="203.2" y="96.52" size="2.1844" layer="94">USB-A CONNECTOR</text>
+<text x="205.74" y="121.92" size="2.1844" layer="94">ICSP HEADER</text>
 <text x="63.5" y="5.08" size="2.1844" layer="94">ATSAMD21E</text>
 <text x="254" y="7.62" size="1.778" layer="94">V1.0</text>
-<wire x1="264.16" y1="149.86" x2="162.56" y2="149.86" width="0.3048" layer="94"/>
-<text x="198.12" y="152.4" size="2.1844" layer="94">PROGRAMMING HEADER</text>
+<wire x1="264.16" y1="147.32" x2="162.56" y2="147.32" width="0.3048" layer="94"/>
+<text x="198.12" y="149.86" size="2.1844" layer="94">PROGRAMMING HEADER</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>
@@ -8741,41 +8454,45 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/2/47571-0001.pd
 <attribute name="SHEET" x="248.92" y="1.27" size="2.54" layer="94"/>
 <attribute name="DRAWING_NAME" x="180.34" y="19.05" size="2.54" layer="94"/>
 </instance>
-<instance part="C1" gate="G$1" x="53.34" y="78.74" smashed="yes" rot="R90">
-<attribute name="NAME" x="52.959" y="80.264" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="58.039" y="80.264" size="1.778" layer="96" rot="R90"/>
+<instance part="C1" gate="G$1" x="10.16" y="121.92" smashed="yes">
+<attribute name="NAME" x="11.684" y="122.301" size="1.778" layer="95"/>
+<attribute name="VALUE" x="11.684" y="117.221" size="1.778" layer="96"/>
 </instance>
-<instance part="C2" gate="G$1" x="53.34" y="101.6" smashed="yes" rot="R90">
-<attribute name="NAME" x="52.959" y="103.124" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="58.039" y="103.124" size="1.778" layer="96" rot="R90"/>
+<instance part="C2" gate="G$1" x="10.16" y="149.86" smashed="yes">
+<attribute name="NAME" x="11.684" y="150.241" size="1.778" layer="95"/>
+<attribute name="VALUE" x="11.684" y="145.161" size="1.778" layer="96"/>
 </instance>
-<instance part="C3" gate="G$1" x="48.26" y="124.46" smashed="yes">
-<attribute name="NAME" x="52.07" y="125.73" size="1.778" layer="95"/>
-<attribute name="VALUE" x="49.784" y="119.761" size="1.778" layer="96"/>
+<instance part="C3" gate="G$1" x="10.16" y="137.16" smashed="yes">
+<attribute name="NAME" x="13.97" y="138.43" size="1.778" layer="95"/>
+<attribute name="VALUE" x="11.684" y="132.461" size="1.778" layer="96"/>
 </instance>
-<instance part="J4" gate="G$1" x="205.74" y="137.16" smashed="yes">
-<attribute name="NAME" x="212.09" y="144.78" size="1.778" layer="95" align="center-left"/>
-<attribute name="VALUE" x="212.09" y="142.24" size="1.778" layer="96" align="center-left"/>
+<instance part="J4" gate="G$1" x="205.74" y="134.62" smashed="yes">
+<attribute name="NAME" x="212.09" y="142.24" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="212.09" y="139.7" size="1.778" layer="96" align="center-left"/>
 </instance>
-<instance part="J2" gate="G$1" x="205.74" y="110.49" smashed="yes">
-<attribute name="NAME" x="212.09" y="118.11" size="1.778" layer="95" align="center-left"/>
-<attribute name="VALUE" x="212.09" y="115.57" size="1.778" layer="96" align="center-left"/>
+<instance part="J2" gate="G$1" x="205.74" y="107.95" smashed="yes">
+<attribute name="NAME" x="212.09" y="115.57" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="212.09" y="113.03" size="1.778" layer="96" align="center-left"/>
 </instance>
-<instance part="R1" gate="G$1" x="196.85" y="107.95" smashed="yes">
-<attribute name="NAME" x="191.77" y="104.3686" size="1.778" layer="95"/>
-<attribute name="VALUE" x="196.85" y="104.648" size="1.778" layer="96"/>
+<instance part="R1" gate="G$1" x="196.85" y="105.41" smashed="yes">
+<attribute name="NAME" x="191.77" y="101.8286" size="1.778" layer="95"/>
+<attribute name="VALUE" x="196.85" y="102.108" size="1.778" layer="96"/>
 </instance>
-<instance part="R2" gate="G$1" x="233.68" y="110.49" smashed="yes">
-<attribute name="NAME" x="229.87" y="111.9886" size="1.778" layer="95"/>
-<attribute name="VALUE" x="234.95" y="112.268" size="1.778" layer="96"/>
+<instance part="R2" gate="G$1" x="233.68" y="107.95" smashed="yes">
+<attribute name="NAME" x="229.87" y="109.4486" size="1.778" layer="95"/>
+<attribute name="VALUE" x="234.95" y="109.728" size="1.778" layer="96"/>
 </instance>
-<instance part="IC2" gate="G$1" x="201.93" y="86.36" smashed="yes">
-<attribute name="NAME" x="208.28" y="93.98" size="1.778" layer="95" align="center-left"/>
-<attribute name="VALUE" x="208.28" y="91.44" size="1.778" layer="96" align="center-left"/>
+<instance part="IC2" gate="G$1" x="201.93" y="83.82" smashed="yes">
+<attribute name="NAME" x="208.28" y="91.44" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="208.28" y="88.9" size="1.778" layer="96" align="center-left"/>
 </instance>
-<instance part="IC1" gate="G$1" x="71.12" y="91.44" smashed="yes">
-<attribute name="NAME" x="100.33" y="111.76" size="1.778" layer="95" align="center-left"/>
-<attribute name="VALUE" x="100.33" y="109.22" size="1.778" layer="96" align="center-left"/>
+<instance part="MICRO-SD" gate="G$1" x="199.39" y="58.42" smashed="yes">
+<attribute name="NAME" x="205.74" y="66.04" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="205.74" y="63.5" size="1.778" layer="96" align="center-left"/>
+</instance>
+<instance part="IC1" gate="G$1" x="55.88" y="76.2" smashed="yes">
+<attribute name="NAME" x="85.09" y="96.52" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="85.09" y="93.98" size="1.778" layer="96" align="center-left"/>
 </instance>
 <instance part="X1" gate="-1" x="231.14" y="170.18" smashed="yes" rot="MR0">
 <attribute name="NAME" x="228.6" y="169.418" size="1.778" layer="95" rot="MR0"/>
@@ -8809,26 +8526,6 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/2/47571-0001.pd
 <instance part="X1" gate="-10" x="200.66" y="160.02" smashed="yes">
 <attribute name="NAME" x="203.2" y="159.258" size="1.778" layer="95"/>
 </instance>
-<instance part="C4" gate="G$1" x="60.96" y="121.92" smashed="yes" rot="R180">
-<attribute name="NAME" x="59.436" y="121.539" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="59.436" y="126.619" size="1.778" layer="96" rot="R180"/>
-</instance>
-<instance part="Y1" gate="G$1" x="55.88" y="88.9" smashed="yes" rot="R180">
-<attribute name="NAME" x="29.21" y="96.52" size="1.778" layer="95" align="center-left"/>
-<attribute name="VALUE" x="29.21" y="99.06" size="1.778" layer="96" align="center-left"/>
-</instance>
-<instance part="R3" gate="G$1" x="86.36" y="127" smashed="yes">
-<attribute name="NAME" x="82.55" y="128.4986" size="1.778" layer="95"/>
-<attribute name="VALUE" x="82.55" y="123.698" size="1.778" layer="96"/>
-</instance>
-<instance part="J1" gate="G$1" x="198.12" y="60.96" smashed="yes">
-<attribute name="NAME" x="204.47" y="68.58" size="1.778" layer="95" align="center-left"/>
-<attribute name="VALUE" x="204.47" y="66.04" size="1.778" layer="96" align="center-left"/>
-</instance>
-<instance part="J3" gate="G$1" x="124.46" y="35.56" smashed="yes">
-<attribute name="NAME" x="109.22" y="52.07" size="1.778" layer="95"/>
-<attribute name="VALUE" x="109.22" y="16.51" size="1.778" layer="96" rot="MR180"/>
-</instance>
 </instances>
 <busses>
 </busses>
@@ -8836,336 +8533,153 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/2/47571-0001.pd
 <net name="+3V3" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="VOUT"/>
-<wire x1="229.87" y1="83.82" x2="246.38" y2="83.82" width="0.1524" layer="91"/>
-<label x="241.3" y="83.82" size="1.778" layer="95"/>
+<wire x1="229.87" y1="81.28" x2="246.38" y2="81.28" width="0.1524" layer="91"/>
+<label x="241.3" y="81.28" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="X1" gate="-1" pin="S"/>
-<wire x1="233.68" y1="170.18" x2="248.92" y2="170.18" width="0.1524" layer="91"/>
-<label x="241.3" y="170.18" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="C4" gate="G$1" pin="2"/>
-<pinref part="C3" gate="G$1" pin="1"/>
-<wire x1="60.96" y1="127" x2="48.26" y2="127" width="0.1524" layer="91"/>
-<wire x1="48.26" y1="127" x2="35.56" y2="127" width="0.1524" layer="91"/>
-<junction x="48.26" y="127"/>
-<label x="35.56" y="127" size="1.778" layer="95"/>
-<pinref part="R3" gate="G$1" pin="1"/>
-<wire x1="60.96" y1="127" x2="81.28" y2="127" width="0.1524" layer="91"/>
-<junction x="60.96" y="127"/>
-</segment>
-<segment>
-<pinref part="IC1" gate="G$1" pin="VDDIN"/>
-<wire x1="83.82" y1="111.76" x2="83.82" y2="121.92" width="0.1524" layer="91"/>
-<label x="83.82" y="116.84" size="1.778" layer="95" rot="R90"/>
-</segment>
-<segment>
-<pinref part="IC1" gate="G$1" pin="VDDANA"/>
-<wire x1="78.74" y1="55.88" x2="78.74" y2="45.72" width="0.1524" layer="91"/>
-<label x="78.74" y="45.72" size="1.778" layer="95" rot="R90"/>
-</segment>
-<segment>
-<pinref part="J1" gate="G$1" pin="VDD"/>
-<wire x1="231.14" y1="58.42" x2="241.3" y2="58.42" width="0.1524" layer="91"/>
-<label x="233.68" y="58.42" size="1.778" layer="95"/>
+<pinref part="MICRO-SD" gate="G$1" pin="VDD"/>
+<wire x1="199.39" y1="50.8" x2="184.15" y2="50.8" width="0.1524" layer="91"/>
+<label x="184.15" y="50.8" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="GND" class="0">
 <segment>
 <pinref part="J4" gate="G$1" pin="6"/>
-<wire x1="226.06" y1="132.08" x2="246.38" y2="132.08" width="0.1524" layer="91"/>
-<label x="241.3" y="132.08" size="1.778" layer="95"/>
+<wire x1="226.06" y1="129.54" x2="246.38" y2="129.54" width="0.1524" layer="91"/>
+<label x="241.3" y="129.54" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="J2" gate="G$1" pin="4"/>
-<wire x1="226.06" y1="107.95" x2="246.38" y2="107.95" width="0.1524" layer="91"/>
-<label x="241.3" y="107.95" size="1.778" layer="95"/>
+<wire x1="226.06" y1="105.41" x2="246.38" y2="105.41" width="0.1524" layer="91"/>
+<label x="241.3" y="105.41" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="IC2" gate="G$1" pin="VSS"/>
-<wire x1="201.93" y1="83.82" x2="186.69" y2="83.82" width="0.1524" layer="91"/>
-<label x="186.69" y="83.82" size="1.778" layer="95"/>
+<wire x1="201.93" y1="81.28" x2="186.69" y2="81.28" width="0.1524" layer="91"/>
+<label x="186.69" y="81.28" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="X1" gate="-3" pin="S"/>
-<pinref part="X1" gate="-5" pin="S"/>
-<wire x1="236.22" y1="165.1" x2="233.68" y2="165.1" width="0.1524" layer="91"/>
-<wire x1="233.68" y1="167.64" x2="236.22" y2="167.64" width="0.1524" layer="91"/>
-<wire x1="236.22" y1="167.64" x2="236.22" y2="165.1" width="0.1524" layer="91"/>
-<junction x="236.22" y="165.1"/>
-<pinref part="X1" gate="-9" pin="S"/>
-<wire x1="233.68" y1="160.02" x2="236.22" y2="160.02" width="0.1524" layer="91"/>
-<wire x1="236.22" y1="160.02" x2="248.92" y2="160.02" width="0.1524" layer="91"/>
-<wire x1="236.22" y1="165.1" x2="236.22" y2="160.02" width="0.1524" layer="91"/>
-<label x="241.3" y="160.02" size="1.778" layer="95"/>
+<pinref part="MICRO-SD" gate="G$1" pin="VSS"/>
+<wire x1="199.39" y1="45.72" x2="184.15" y2="45.72" width="0.1524" layer="91"/>
+<label x="184.15" y="45.72" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="C2" gate="G$1" pin="1"/>
-<wire x1="50.8" y1="101.6" x2="43.18" y2="101.6" width="0.1524" layer="91"/>
-<label x="43.18" y="101.6" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="C1" gate="G$1" pin="1"/>
-<wire x1="50.8" y1="78.74" x2="43.18" y2="78.74" width="0.1524" layer="91"/>
-<label x="43.18" y="78.74" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="C4" gate="G$1" pin="1"/>
-<pinref part="C3" gate="G$1" pin="2"/>
-<wire x1="60.96" y1="119.38" x2="48.26" y2="119.38" width="0.1524" layer="91"/>
-<wire x1="48.26" y1="119.38" x2="35.56" y2="119.38" width="0.1524" layer="91"/>
-<junction x="48.26" y="119.38"/>
-<label x="35.56" y="119.38" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="IC1" gate="G$1" pin="GND_1"/>
-<wire x1="81.28" y1="55.88" x2="81.28" y2="45.72" width="0.1524" layer="91"/>
-<label x="81.28" y="45.72" size="1.778" layer="95" rot="R90"/>
-</segment>
-<segment>
-<pinref part="IC1" gate="G$1" pin="GND_2"/>
-<wire x1="88.9" y1="111.76" x2="88.9" y2="121.92" width="0.1524" layer="91"/>
-<label x="88.9" y="116.84" size="1.778" layer="95" rot="R90"/>
-</segment>
-<segment>
-<pinref part="J1" gate="G$1" pin="GND_1"/>
-<wire x1="198.12" y1="60.96" x2="195.58" y2="60.96" width="0.1524" layer="91"/>
-<pinref part="J1" gate="G$1" pin="GND_2"/>
-<wire x1="195.58" y1="60.96" x2="185.42" y2="60.96" width="0.1524" layer="91"/>
-<wire x1="198.12" y1="58.42" x2="195.58" y2="58.42" width="0.1524" layer="91"/>
-<wire x1="195.58" y1="58.42" x2="195.58" y2="60.96" width="0.1524" layer="91"/>
-<junction x="195.58" y="60.96"/>
-<pinref part="J1" gate="G$1" pin="GND_3"/>
-<wire x1="198.12" y1="55.88" x2="195.58" y2="55.88" width="0.1524" layer="91"/>
-<wire x1="195.58" y1="55.88" x2="195.58" y2="58.42" width="0.1524" layer="91"/>
-<junction x="195.58" y="58.42"/>
-<label x="185.42" y="60.96" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J1" gate="G$1" pin="VSS"/>
-<wire x1="231.14" y1="53.34" x2="241.3" y2="53.34" width="0.1524" layer="91"/>
-<label x="233.68" y="53.34" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J3" gate="G$1" pin="GNDA"/>
-<wire x1="104.14" y1="25.4" x2="101.6" y2="25.4" width="0.1524" layer="91"/>
-<wire x1="101.6" y1="25.4" x2="101.6" y2="20.32" width="0.1524" layer="91"/>
-<pinref part="J3" gate="G$1" pin="SHIELD1"/>
-<wire x1="101.6" y1="20.32" x2="104.14" y2="20.32" width="0.1524" layer="91"/>
-<wire x1="101.6" y1="20.32" x2="93.98" y2="20.32" width="0.1524" layer="91"/>
-<junction x="101.6" y="20.32"/>
-<label x="93.98" y="20.32" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J3" gate="G$1" pin="GNDB"/>
-<wire x1="144.78" y1="25.4" x2="147.32" y2="25.4" width="0.1524" layer="91"/>
-<wire x1="147.32" y1="25.4" x2="147.32" y2="20.32" width="0.1524" layer="91"/>
-<pinref part="J3" gate="G$1" pin="SHIELD2"/>
-<wire x1="144.78" y1="20.32" x2="147.32" y2="20.32" width="0.1524" layer="91"/>
-<wire x1="147.32" y1="20.32" x2="154.94" y2="20.32" width="0.1524" layer="91"/>
-<junction x="147.32" y="20.32"/>
-<label x="149.86" y="20.32" size="1.778" layer="95"/>
+<pinref part="MICRO-SD" gate="G$1" pin="GND_1"/>
+<wire x1="232.41" y1="53.34" x2="245.11" y2="53.34" width="0.1524" layer="91"/>
+<wire x1="245.11" y1="53.34" x2="245.11" y2="50.8" width="0.1524" layer="91"/>
+<pinref part="MICRO-SD" gate="G$1" pin="GND_2"/>
+<wire x1="245.11" y1="50.8" x2="245.11" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="245.11" y1="48.26" x2="245.11" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="245.11" y1="45.72" x2="252.73" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="232.41" y1="50.8" x2="245.11" y2="50.8" width="0.1524" layer="91"/>
+<junction x="245.11" y="50.8"/>
+<pinref part="MICRO-SD" gate="G$1" pin="GND_3"/>
+<wire x1="232.41" y1="48.26" x2="245.11" y2="48.26" width="0.1524" layer="91"/>
+<junction x="245.11" y="48.26"/>
+<pinref part="MICRO-SD" gate="G$1" pin="GND_4"/>
+<wire x1="232.41" y1="45.72" x2="245.11" y2="45.72" width="0.1524" layer="91"/>
+<junction x="245.11" y="45.72"/>
+<label x="246.38" y="45.72" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="+5V" class="0">
 <segment>
 <pinref part="J4" gate="G$1" pin="2"/>
-<wire x1="226.06" y1="137.16" x2="246.38" y2="137.16" width="0.1524" layer="91"/>
-<label x="241.3" y="137.16" size="1.778" layer="95"/>
+<wire x1="226.06" y1="134.62" x2="246.38" y2="134.62" width="0.1524" layer="91"/>
+<label x="241.3" y="134.62" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="J2" gate="G$1" pin="1"/>
-<wire x1="205.74" y1="110.49" x2="187.96" y2="110.49" width="0.1524" layer="91"/>
-<label x="187.96" y="110.49" size="1.778" layer="95"/>
+<wire x1="205.74" y1="107.95" x2="187.96" y2="107.95" width="0.1524" layer="91"/>
+<label x="187.96" y="107.95" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="IC2" gate="G$1" pin="VIN"/>
-<wire x1="201.93" y1="86.36" x2="186.69" y2="86.36" width="0.1524" layer="91"/>
-<label x="186.69" y="86.36" size="1.778" layer="95"/>
+<wire x1="201.93" y1="83.82" x2="186.69" y2="83.82" width="0.1524" layer="91"/>
+<label x="186.69" y="83.82" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="IC2" gate="G$1" pin="CE"/>
-<wire x1="201.93" y1="81.28" x2="186.69" y2="81.28" width="0.1524" layer="91"/>
-<label x="186.69" y="81.28" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J3" gate="G$1" pin="VBUS_A"/>
-<wire x1="104.14" y1="48.26" x2="96.52" y2="48.26" width="0.1524" layer="91"/>
-<label x="96.52" y="48.26" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J3" gate="G$1" pin="VBUS_B"/>
-<wire x1="144.78" y1="48.26" x2="154.94" y2="48.26" width="0.1524" layer="91"/>
-<label x="149.86" y="48.26" size="1.778" layer="95"/>
+<wire x1="201.93" y1="78.74" x2="186.69" y2="78.74" width="0.1524" layer="91"/>
+<label x="186.69" y="78.74" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="D-" class="0">
 <segment>
 <pinref part="R1" gate="G$1" pin="1"/>
-<wire x1="191.77" y1="107.95" x2="187.96" y2="107.95" width="0.1524" layer="91"/>
-<label x="187.96" y="107.95" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J3" gate="G$1" pin="D-"/>
-<wire x1="104.14" y1="35.56" x2="96.52" y2="35.56" width="0.1524" layer="91"/>
-<label x="96.52" y="35.56" size="1.778" layer="95"/>
+<wire x1="191.77" y1="105.41" x2="187.96" y2="105.41" width="0.1524" layer="91"/>
+<label x="187.96" y="105.41" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="D+" class="0">
 <segment>
 <pinref part="R2" gate="G$1" pin="2"/>
-<wire x1="238.76" y1="110.49" x2="246.38" y2="110.49" width="0.1524" layer="91"/>
-<label x="241.3" y="110.49" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J3" gate="G$1" pin="D+"/>
-<wire x1="104.14" y1="38.1" x2="96.52" y2="38.1" width="0.1524" layer="91"/>
-<label x="96.52" y="38.1" size="1.778" layer="95"/>
+<wire x1="238.76" y1="107.95" x2="246.38" y2="107.95" width="0.1524" layer="91"/>
+<label x="241.3" y="107.95" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="SCK" class="0">
 <segment>
 <pinref part="J4" gate="G$1" pin="3"/>
-<wire x1="205.74" y1="134.62" x2="187.96" y2="134.62" width="0.1524" layer="91"/>
-<label x="187.96" y="134.62" size="1.778" layer="95"/>
+<wire x1="205.74" y1="132.08" x2="187.96" y2="132.08" width="0.1524" layer="91"/>
+<label x="187.96" y="132.08" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="PA17"/>
-<wire x1="104.14" y1="76.2" x2="116.84" y2="76.2" width="0.1524" layer="91"/>
-<label x="109.22" y="76.2" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J1" gate="G$1" pin="CLK"/>
-<wire x1="231.14" y1="55.88" x2="241.3" y2="55.88" width="0.1524" layer="91"/>
-<label x="233.68" y="55.88" size="1.778" layer="95"/>
+<pinref part="MICRO-SD" gate="G$1" pin="CLK"/>
+<wire x1="199.39" y1="48.26" x2="184.15" y2="48.26" width="0.1524" layer="91"/>
+<label x="184.15" y="48.26" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="MOSI" class="0">
 <segment>
 <pinref part="J4" gate="G$1" pin="4"/>
-<wire x1="226.06" y1="134.62" x2="246.38" y2="134.62" width="0.1524" layer="91"/>
-<label x="241.3" y="134.62" size="1.778" layer="95"/>
+<wire x1="226.06" y1="132.08" x2="246.38" y2="132.08" width="0.1524" layer="91"/>
+<label x="241.3" y="132.08" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="PA16"/>
-<wire x1="104.14" y1="73.66" x2="116.84" y2="73.66" width="0.1524" layer="91"/>
-<label x="109.22" y="73.66" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J1" gate="G$1" pin="CMD"/>
-<wire x1="231.14" y1="60.96" x2="241.3" y2="60.96" width="0.1524" layer="91"/>
-<label x="233.68" y="60.96" size="1.778" layer="95"/>
+<pinref part="MICRO-SD" gate="G$1" pin="CMD"/>
+<wire x1="199.39" y1="53.34" x2="184.15" y2="53.34" width="0.1524" layer="91"/>
+<label x="184.15" y="53.34" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="MISO" class="0">
 <segment>
 <pinref part="J4" gate="G$1" pin="1"/>
-<wire x1="205.74" y1="137.16" x2="187.96" y2="137.16" width="0.1524" layer="91"/>
-<label x="187.96" y="137.16" size="1.778" layer="95"/>
+<wire x1="205.74" y1="134.62" x2="187.96" y2="134.62" width="0.1524" layer="91"/>
+<label x="187.96" y="134.62" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="PA19"/>
-<wire x1="104.14" y1="81.28" x2="116.84" y2="81.28" width="0.1524" layer="91"/>
-<label x="109.22" y="81.28" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J1" gate="G$1" pin="DAT0"/>
-<wire x1="231.14" y1="50.8" x2="241.3" y2="50.8" width="0.1524" layer="91"/>
-<label x="233.68" y="50.8" size="1.778" layer="95"/>
+<pinref part="MICRO-SD" gate="G$1" pin="DAT0"/>
+<wire x1="232.41" y1="58.42" x2="245.11" y2="58.42" width="0.1524" layer="91"/>
+<label x="238.76" y="58.42" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="CS" class="0">
 <segment>
-<pinref part="IC1" gate="G$1" pin="PA18"/>
-<wire x1="104.14" y1="78.74" x2="116.84" y2="78.74" width="0.1524" layer="91"/>
-<label x="109.22" y="78.74" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J1" gate="G$1" pin="CD/DAT3"/>
-<wire x1="198.12" y1="45.72" x2="185.42" y2="45.72" width="0.1524" layer="91"/>
-<label x="185.42" y="45.72" size="1.778" layer="95"/>
+<pinref part="MICRO-SD" gate="G$1" pin="CD/DAT3"/>
+<wire x1="199.39" y1="55.88" x2="184.15" y2="55.88" width="0.1524" layer="91"/>
+<label x="184.15" y="55.88" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="RESET" class="0">
 <segment>
 <pinref part="J4" gate="G$1" pin="5"/>
-<wire x1="205.74" y1="132.08" x2="187.96" y2="132.08" width="0.1524" layer="91"/>
-<label x="187.96" y="132.08" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="X1" gate="-10" pin="S"/>
-<wire x1="198.12" y1="160.02" x2="185.42" y2="160.02" width="0.1524" layer="91"/>
-<label x="185.42" y="160.02" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="IC1" gate="G$1" pin="RESET"/>
-<wire x1="93.98" y1="111.76" x2="93.98" y2="127" width="0.1524" layer="91"/>
-<pinref part="R3" gate="G$1" pin="2"/>
-<wire x1="91.44" y1="127" x2="93.98" y2="127" width="0.1524" layer="91"/>
-<wire x1="93.98" y1="127" x2="106.68" y2="127" width="0.1524" layer="91"/>
-<junction x="93.98" y="127"/>
-<label x="96.52" y="127" size="1.778" layer="95"/>
+<wire x1="205.74" y1="129.54" x2="187.96" y2="129.54" width="0.1524" layer="91"/>
+<label x="187.96" y="129.54" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$2" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="2"/>
-<wire x1="205.74" y1="107.95" x2="201.93" y2="107.95" width="0.1524" layer="91"/>
+<wire x1="205.74" y1="105.41" x2="201.93" y2="105.41" width="0.1524" layer="91"/>
 <pinref part="R1" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="3"/>
-<wire x1="226.06" y1="110.49" x2="228.6" y2="110.49" width="0.1524" layer="91"/>
+<wire x1="226.06" y1="107.95" x2="228.6" y2="107.95" width="0.1524" layer="91"/>
 <pinref part="R2" gate="G$1" pin="1"/>
-</segment>
-</net>
-<net name="SWDIO" class="0">
-<segment>
-<pinref part="X1" gate="-2" pin="S"/>
-<wire x1="198.12" y1="170.18" x2="185.42" y2="170.18" width="0.1524" layer="91"/>
-<label x="185.42" y="170.18" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="IC1" gate="G$1" pin="PA31"/>
-<wire x1="78.74" y1="111.76" x2="78.74" y2="121.92" width="0.1524" layer="91"/>
-<label x="78.74" y="114.3" size="1.778" layer="95" rot="R90"/>
-</segment>
-</net>
-<net name="SWCLK" class="0">
-<segment>
-<pinref part="X1" gate="-4" pin="S"/>
-<wire x1="198.12" y1="167.64" x2="185.42" y2="167.64" width="0.1524" layer="91"/>
-<label x="185.42" y="167.64" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="IC1" gate="G$1" pin="PA30"/>
-<wire x1="81.28" y1="111.76" x2="81.28" y2="121.92" width="0.1524" layer="91"/>
-<label x="81.28" y="114.3" size="1.778" layer="95" rot="R90"/>
-</segment>
-</net>
-<net name="N$1" class="0">
-<segment>
-<pinref part="IC1" gate="G$1" pin="PA01"/>
-<pinref part="Y1" gate="G$1" pin="CRYSTAL_1"/>
-<wire x1="55.88" y1="88.9" x2="58.42" y2="88.9" width="0.1524" layer="91"/>
-<pinref part="C1" gate="G$1" pin="2"/>
-<wire x1="58.42" y1="88.9" x2="71.12" y2="88.9" width="0.1524" layer="91"/>
-<wire x1="58.42" y1="78.74" x2="58.42" y2="88.9" width="0.1524" layer="91"/>
-<junction x="58.42" y="88.9"/>
-</segment>
-</net>
-<net name="N$4" class="0">
-<segment>
-<pinref part="IC1" gate="G$1" pin="PA00"/>
-<pinref part="Y1" gate="G$1" pin="CRYSTAL_2"/>
-<wire x1="55.88" y1="91.44" x2="58.42" y2="91.44" width="0.1524" layer="91"/>
-<pinref part="C2" gate="G$1" pin="2"/>
-<wire x1="58.42" y1="91.44" x2="71.12" y2="91.44" width="0.1524" layer="91"/>
-<wire x1="58.42" y1="101.6" x2="58.42" y2="91.44" width="0.1524" layer="91"/>
-<junction x="58.42" y="91.44"/>
 </segment>
 </net>
 </nets>
